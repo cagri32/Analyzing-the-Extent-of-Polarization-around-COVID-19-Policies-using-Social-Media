@@ -161,10 +161,10 @@ import tweepy
 from tweepy import OAuthHandler
 
 # Authenticate
-CONSUMER_KEY = "oDgDh7YIWbq0fosvRgQRyjh6l" #@param {type:"string"}
-CONSUMER_SECRET_KEY = "hZhT8yXkal13YKuSONKzuPvu5FO6r6rk54mTXDL2DpSBQjTSwZ" #@param {type:"string"}
-ACCESS_TOKEN_KEY = "231952658-GZ07snhx79HgR4kBoCuqFLu1UpxquxFKEn0LXULx" #@param {type:"string"}
-ACCESS_TOKEN_SECRET_KEY = "58CITsF9DljBFOPMhknlplycSEUJbHawa4xMfsr10JSoG" #@param {type:"string"}
+CONSUMER_KEY = "" #@param {type:"string"}
+CONSUMER_SECRET_KEY = "" #@param {type:"string"}
+ACCESS_TOKEN_KEY = "" #@param {type:"string"}
+ACCESS_TOKEN_SECRET_KEY = "" #@param {type:"string"}
 
 #Creates a JSON Files with the API credentials
 with open('api_keys.json', 'w') as outfile:
