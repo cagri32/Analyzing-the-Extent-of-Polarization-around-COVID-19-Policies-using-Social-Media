@@ -159,8 +159,10 @@ def main():
                     text = data["full_text"]
                 else:
                     text = data["text"]          
+                # When adding or removing fields, there are 3 places to make changes
+                # First, make a change in the below dict t
                 t = {
-                    "name": data["name"],
+                    "user.name": data["user"]["name"],
                     "created_at": data["created_at"],
                     "text": text,
                     "in_reply_to_screen_name": data["in_reply_to_screen_name"],
@@ -180,13 +182,13 @@ def main():
         
     f = csv.writer(open('{}.csv'.format(output_file_noformat), 'w'))
     print('creating CSV version of minimized json master file') 
-    # Added the first two fields
-    fields = ["name","user.verified","user.followers_count","favorite_count","user.favourites_count","user.friends_count", "text", "in_reply_to_screen_name", "is_retweet", "created_at", "retweet_count", "id_str"]                
+    # Secondly, make a change in the below fields list
+    fields = ["user.name","user.verified","user.followers_count","favorite_count","user.favourites_count","user.friends_count", "text", "in_reply_to_screen_name", "is_retweet", "created_at", "retweet_count", "id_str"]                
     f.writerow(fields)       
     with open(output_file_short) as master_file:
         for tweet in master_file:
             data = json.loads(tweet)
-            # Added the first two fields            
+            # Thirdly, make a change in the below writerow statement       
             f.writerow([data["user.name"].encode('utf-8'), data["user.verified"],data["user.favourites_count"],data["user.followers_count"],data["user.friends_count"],data["favorite_count"], data["text"].encode('utf-8'), data["in_reply_to_screen_name"], data["is_retweet"], data["created_at"], data["retweet_count"], data["id_str"].encode('utf-8')])
     
 
