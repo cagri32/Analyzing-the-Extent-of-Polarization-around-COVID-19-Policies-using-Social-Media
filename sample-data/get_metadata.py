@@ -109,7 +109,7 @@ def main():
     print('creating master json file')
     try:
         with open(output_file, 'a') as outfile:
-            for go in range(i):
+            for go in range(100): # I changed this from i to 1
                 print('currently getting {} - {}'.format(start, end))
                 sleep(6)  # needed to prevent hitting API rate limit
                 id_batch = ids[start:end]
@@ -160,27 +160,36 @@ def main():
                 else:
                     text = data["text"]          
                 t = {
+                    "name": data["name"],
                     "created_at": data["created_at"],
                     "text": text,
                     "in_reply_to_screen_name": data["in_reply_to_screen_name"],
                     "retweet_count": data["retweet_count"],
                     "favorite_count": data["favorite_count"],
-                    "source": get_source(data),
                     "id_str": data["id_str"],
-                    "is_retweet": is_retweet(data)
+                    "is_retweet": is_retweet(data),
+                    # Added the following two lines
+                    "user.followers_count": data["user"]["followers_count"],
+                    "user.followers_count": data["user"]["friends_count"],
+                    "user.followers_count": data["user"]["favourites_count"],
+                    "user.verified": data["user"]["verified"]
+
                 }
                 json.dump(t, outfile)
                 outfile.write('\n')
         
     f = csv.writer(open('{}.csv'.format(output_file_noformat), 'w'))
     print('creating CSV version of minimized json master file') 
-    fields = ["favorite_count", "source", "text", "in_reply_to_screen_name", "is_retweet", "created_at", "retweet_count", "id_str"]                
+    # Added the first two fields
+    fields = ["name","user.verified","user.followers_count","favorite_count","user.favourites_count","user.friends_count", "text", "in_reply_to_screen_name", "is_retweet", "created_at", "retweet_count", "id_str"]                
     f.writerow(fields)       
     with open(output_file_short) as master_file:
         for tweet in master_file:
-            data = json.loads(tweet)            
-            f.writerow([data["favorite_count"], data["source"], data["text"].encode('utf-8'), data["in_reply_to_screen_name"], data["is_retweet"], data["created_at"], data["retweet_count"], data["id_str"].encode('utf-8')])
+            data = json.loads(tweet)
+            # Added the first two fields            
+            f.writerow([data["user.name"].encode('utf-8'), data["user.verified"],data["user.favourites_count"],data["user.followers_count"],data["user.friends_count"],data["favorite_count"], data["text"].encode('utf-8'), data["in_reply_to_screen_name"], data["is_retweet"], data["created_at"], data["retweet_count"], data["id_str"].encode('utf-8')])
     
 
 # main invoked here    
 main()
+
