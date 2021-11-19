@@ -109,7 +109,7 @@ def main():
     print('creating master json file')
     try:
         with open(output_file, 'a') as outfile:
-            for go in range(100): # I changed this from i to 1
+            for go in range(10): # I changed this from i to 10 for getting a sample of 1000 tweets
                 print('currently getting {} - {}'.format(start, end))
                 sleep(6)  # needed to prevent hitting API rate limit
                 id_batch = ids[start:end]
@@ -172,8 +172,8 @@ def main():
                     "is_retweet": is_retweet(data),
                     # Added the following two lines
                     "user.followers_count": data["user"]["followers_count"],
-                    "user.followers_count": data["user"]["friends_count"],
-                    "user.followers_count": data["user"]["favourites_count"],
+                    "user.friends_count": data["user"]["friends_count"],
+                    "user.favourites_count": data["user"]["favourites_count"],
                     "user.verified": data["user"]["verified"]
 
                 }
