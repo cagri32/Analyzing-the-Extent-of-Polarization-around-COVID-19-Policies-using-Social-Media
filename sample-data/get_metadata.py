@@ -109,7 +109,7 @@ def main():
     print('creating master json file')
     try:
         with open(output_file, 'a') as outfile:
-            for go in range(10): # I changed this from i to 10 for getting a sample of 1000 tweets
+            for go in range(5): # I changed this from i to 10 for getting a sample of 1000 tweets
                 print('currently getting {} - {}'.format(start, end))
                 sleep(6)  # needed to prevent hitting API rate limit
                 id_batch = ids[start:end]
@@ -158,40 +158,43 @@ def main():
                 if hydration_mode == "e":
                     text = data["full_text"]
                 else:
-                    text = data["text"]          
+                    text = data["text"]
+                          
                 # When adding or removing fields, there are 3 places to make changes
                 # First, make a change in the below dict t
                 t = {
-                    "user.name": data["user"]["name"],
-                    "created_at": data["created_at"],
+                    "user.id_str": data["user"]["id_str"],
+                    # "retweeted_status.user.id_str": data["retweeted_status"]["user"]["id_str"],
                     "text": text,
-                    "in_reply_to_screen_name": data["in_reply_to_screen_name"],
                     "retweet_count": data["retweet_count"],
                     "favorite_count": data["favorite_count"],
                     "id_str": data["id_str"],
                     "is_retweet": is_retweet(data),
-                    # Added the following two lines
                     "user.followers_count": data["user"]["followers_count"],
                     "user.friends_count": data["user"]["friends_count"],
                     "user.favourites_count": data["user"]["favourites_count"],
-                    "user.verified": data["user"]["verified"]
+                    "user.verified": data["user"]["verified"],
+                    "user.name": data["user"]["name"],
 
                 }
+                # If the tweet is not a retweet, retweeted_user_id is assigned to -1
+                if is_retweet(data):
+                  t["retweeted_status.user.id_str"] = data["retweeted_status"]["user"]["id_str"]
+                else:
+                  t["retweeted_status.user.id_str"] = -1
                 json.dump(t, outfile)
                 outfile.write('\n')
         
     f = csv.writer(open('{}.csv'.format(output_file_noformat), 'w'))
     print('creating CSV version of minimized json master file') 
     # Secondly, make a change in the below fields list
-    fields = ["user.name","user.verified","user.followers_count","favorite_count","user.favourites_count","user.friends_count", "text", "in_reply_to_screen_name", "is_retweet", "created_at", "retweet_count", "id_str"]                
+    fields = ["user_id","retweeted_user_id","user_verified","user_followers_count","favorite_count","user_favourites_count","user_friends_count", "text", "is_retweet", "retweet_count", "id_str"]                
     f.writerow(fields)       
     with open(output_file_short) as master_file:
         for tweet in master_file:
-            data = json.loads(tweet)
-            # Thirdly, make a change in the below writerow statement       
-            f.writerow([data["user.name"].encode('utf-8'), data["user.verified"],data["user.favourites_count"],data["user.followers_count"],data["user.friends_count"],data["favorite_count"], data["text"].encode('utf-8'), data["in_reply_to_screen_name"], data["is_retweet"], data["created_at"], data["retweet_count"], data["id_str"].encode('utf-8')])
-    
-
+          data = json.loads(tweet)
+          # Thirdly, make a change in the below writerow statement
+          f.writerow([data["user.id_str"], data["retweeted_status.user.id_str"],data["user.verified"],data["user.favourites_count"],data["user.followers_count"],data["user.friends_count"],data["favorite_count"], data["text"].encode('utf-8'), data["is_retweet"], data["retweet_count"], data["id_str"]])
+  
 # main invoked here    
 main()
-
