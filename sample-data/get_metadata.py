@@ -109,7 +109,7 @@ def main():
     print('creating master json file')
     try:
         with open(output_file, 'a') as outfile:
-            for go in range(5): # I changed this from i to 10 for getting a sample of 1000 tweets
+            for go in range(i): # I changed this from i to 10 for getting a sample of 1000 tweets
                 print('currently getting {} - {}'.format(start, end))
                 sleep(6)  # needed to prevent hitting API rate limit
                 id_batch = ids[start:end]
