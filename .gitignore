@@ -1,2 +1,9 @@
 .env
-/tutorial/api_keys.jsong
+
+*.tsv
+*.csv
+*.json
+*tweets
+
+/tutorial/api_keys.json
+/.ipynb_checkpoints/
