@@ -37,7 +37,9 @@ def main():
     parser.add_argument("-k", "--keyfile", help="Json api key file name")
     parser.add_argument("-c", "--idcolumn", help="tweet id column in the input file, string name")
     parser.add_argument("-m", "--mode", help="Enter e for extended mode ; else the program would consider default compatible mode")
-
+    parser.add_argument("-ll", "--lowerlimit", help="Lower limit of the tweets")
+    parser.add_argument("-ul", "--upperlimit", help="Upper limit of the tweets")
+    
 
     args = parser.parse_args()
     if args.inputfile is None or args.outputfile is None:
@@ -91,7 +93,12 @@ def main():
     end = 100
     limit = len(ids)
     i = int(math.ceil(float(limit) / 100))
-
+    lowlim = 0
+    uplim = int(math.ceil(float(limit-start) / 100))
+    if(args.upperlimit is not None):
+      uplim = int(args.upperlimit)
+    if(args.lowerlimit is not None):
+      lowlim = int(args.lowerlimit)
     last_tweet = None
     if osp.isfile(args.outputfile) and osp.getsize(args.outputfile) > 0:
         with open(output_file, 'rb') as f:
@@ -103,13 +110,12 @@ def main():
         last_tweet = json.loads(last_line)
         start = ids.index(last_tweet['id'])
         end = start+100
-        i = int(math.ceil(float(limit-start) / 100))
 
     print('metadata collection complete')
-    print('creating master json file')
+    print('creating master json file between the tweets {} and {}'.format(lowlim,uplim))
     try:
         with open(output_file, 'a') as outfile:
-            for go in range(i): # I changed this from i to 10 for getting a sample of 1000 tweets
+            for go in range(lowlim,uplim): # I changed this from i to 10 for getting a sample of 1000 tweets
                 print('currently getting {} - {}'.format(start, end))
                 sleep(6)  # needed to prevent hitting API rate limit
                 id_batch = ids[start:end]
@@ -175,7 +181,7 @@ def main():
                     "user.favourites_count": data["user"]["favourites_count"],
                     "user.verified": data["user"]["verified"],
                     "user.name": data["user"]["name"],
-
+                    # "entities.user_mentions": data["entities"]["user_mentions"]["id_str"]
                 }
                 # If the tweet is not a retweet, retweeted_user_id is assigned to -1
                 if is_retweet(data):
@@ -188,7 +194,7 @@ def main():
     f = csv.writer(open('{}.csv'.format(output_file_noformat), 'w'))
     print('creating CSV version of minimized json master file') 
     # Secondly, make a change in the below fields list
-    fields = ["user_id","retweeted_user_id","user_verified","user_followers_count","favorite_count","user_favourites_count","user_friends_count", "text", "is_retweet", "retweet_count", "id_str"]                
+    fields = ["user_id","retweeted_user_id","user_verified","user_followers_count","favorite_count","user_favourites_count","user_friends_count", "text", "is_retweet", "retweet_count","id_str" ] # ,"entities_user_mentions"              
     f.writerow(fields)       
     with open(output_file_short) as master_file:
         for tweet in master_file:
