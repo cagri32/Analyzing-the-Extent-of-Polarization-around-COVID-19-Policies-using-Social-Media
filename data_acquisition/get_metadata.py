@@ -18,17 +18,14 @@
 import tweepy
 import json
 import math
-import glob
 import csv
 import zipfile
-import zlib
 import argparse
 import os
 import os.path as osp
 import pandas as pd
-from tweepy import TweepError
 from time import sleep
-import ast
+import sys
 
 from pathlib import Path
 
@@ -53,7 +50,6 @@ def main():
         keys = json.load(f)
 
     date_string = args.outputfile.split('/')[-2]
-    # abs_dir = os.path.join(f'{os.getcwd()}/data/tweets/{date_string}', f'/data/tweets/{date_string}')
     abs_dir = Path(f'{os.getcwd()}/data/tweets/{date_string}')
     print(f'abs_dir: {abs_dir}')
     os.mkdir(abs_dir)
@@ -103,18 +99,10 @@ def main():
 
     last_tweet = None
     if osp.isfile(args.outputfile) and osp.getsize(args.outputfile) > 0:
-        # with open(output_file, 'rb') as f:
-        #     #may be a large file, seeking without iterating
-        #     f.seek(-2, os.SEEK_END)
-        #     while f.read(1) != b'\n':
-        #         f.seek(-2, os.SEEK_CUR)
-        #     last_line = f.readline().decode()
-        #     last_line = f.readline()
         with open(output_file) as f:
             for line in f:
                 pass
         last_line = line
-        # print(f'last_line:\n"{last_line}"') # tweet string is getting cut off for some reason
         last_tweet = json.loads(last_line)
         print(f'last_tweet: {last_tweet["id"]}\nids: {len(ids)}')
         start = ids.index(last_tweet['id'])
@@ -127,7 +115,7 @@ def main():
         with open(output_file, 'a') as outfile:
             for go in range(i):
                 print('currently getting {} - {}'.format(start, end))
-                sleep(6)  # needed to prevent hitting API rate limit
+                sleep(6)
                 id_batch = ids[start:end]
                 start += 100
                 end += 100       
@@ -141,8 +129,8 @@ def main():
                         break
                     except tweepy.TweepError as ex:
                         print('Caught the TweepError exception:\n %s' % ex)
-                        sleep(30*backOffCounter)  # sleep a bit to see if connection Error is resolved before retrying
-                        backOffCounter += 1  # increase backoff
+                        sleep(30*backOffCounter)
+                        backOffCounter += 1
                         continue
                 for tweet in tweets:
                     json.dump(tweet._json, outfile)
@@ -177,29 +165,16 @@ def main():
                 else:
                     text = data["text"] 
                 t = {f:data[f] if f in data else '' for f in fields}
-                # t = {
-                #     "created_at": data["created_at"],
-                #     "text": text,
-                #     "in_reply_to_screen_name": data["in_reply_to_screen_name"],
-                #     "retweet_count": data["retweet_count"],
-                #     "favorite_count": data["favorite_count"],
-                #     "source": get_source(data),
-                #     "id_str": data["id_str"],
-                #     "is_retweet": is_retweet(data)
-                # }
                 json.dump(t, outfile)
                 outfile.write('\n')
     
-    # TODO: cwc - updated line 178 and 184 so that all 174 fields are used
     f = csv.writer(open('{}.csv'.format(output_file), 'w', encoding="utf-8"))
     print('creating CSV version of minimized json master file') 
     f.writerow(fields)       
     with open(output_file_short) as master_file:
         for tweet in master_file:
             data = json.loads(tweet)            
-            # print(data)
             f.writerow([data[f] for f in fields])
-            # f.writerow([data['user'],data['entities'],data['retweeted_status'],data['retweet_count'],data['favorite_count'],])
     
 
 main()
