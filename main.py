@@ -3,6 +3,8 @@ from collections import Counter
 import networkx as nx
 import pickle
 
+data_path = './data/'
+out_path = './out/'
 
 def main():
   graph = nx.DiGraph()
@@ -17,7 +19,7 @@ def main():
   #print(graph.edges)
   print(graph)
 
-  with open("graph.txt", 'wb') as f:
+  with open(f'{out_path}graph.txt', 'wb') as f:
     pickle.dump(graph, f)
 
   #pickle.dump(graph, open('graph.txt', 'w'))
@@ -26,3 +28,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print("main.py... Done.")
