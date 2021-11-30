@@ -49,10 +49,14 @@ Given that the media is a primary driver of the intensity of social media user r
 - Australia (specifically Melbourne, Victoria state, was eventually used as a example of authoritarian pandemic response, by critics)
 - The rest of the world.
 
-## by Local Maxima
-*
+## by Tweet count in the [dataset](https://github.com/thepanacealab/covid19_twitter/tree/master/dailies)
 
-## by Timeline
+
+
+
+
+-----------------
+In Progress
 
 * January 27th 2021 - The US surpasses 1 million deaths from COVID-19 [1](https://www.paho.org/en/news/27-1-2021-americas-surpasses-one-million-deaths-covid-19)
 
@@ -62,12 +66,10 @@ Given that the media is a primary driver of the intensity of social media user r
 
 * Late June 2020 - Travel quarantines for Americans in interstate travel begins [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=32)
 
-* April 28th 2020 - The US reaches the 1 million total cases of COVID-19 [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29)[2](https://www.npr.org/sections/coronavirus-live-updates/2020/04/28/846741935/u-s-surpasses-1-million-coronavirus-cases)
+* April 28th 2020 - The US reaches the 1 million total cases of COVID-19 [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29),[2](https://www.npr.org/sections/coronavirus-live-updates/2020/04/28/846741935/u-s-surpasses-1-million-coronavirus-cases)
 
 * April 17th 2020 - President Trump releases guidelines for reopening the USA [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29)
 
 * April 4th 2020 - President Trump endorses the use of the malaria drug hydroxychloroquine [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=28)
 
 * March 26th 2020 - New York City becomes an epicentre of COVID-19 in the world (surpassing Italy and Spain at the time)[1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=27)
-
-* March 19th 2020 - State of California, USA is the first in the country to issue a stay at home order [1](https://www.gov.ca.gov/2020/03/19/governor-gavin-newsom-issues-stay-at-home-order/)
