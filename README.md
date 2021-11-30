@@ -39,7 +39,7 @@ python ./data_acquisition/get_metadata.py -i ./data/tsv/2020-09-09-dataset.tsv -
 python ./data_acquisition/get_metadata.py -i ./data/tsv/2021-07-01-dataset.tsv -o ./data/tweets/2021-07-01/2021-07-01-hydrated_tweets -k api_keys.json
 ```
 # Important Dates
-refer to [Issue #2](https://github.com/cagri32/Analyzing-the-Extent-of-Polarization-around-COVID-19-Policies-using-Social-Media/issues/2#issuecomment-970665240)
+Refer to [Issue #2](https://github.com/cagri32/Analyzing-the-Extent-of-Polarization-around-COVID-19-Policies-using-Social-Media/issues/2#issuecomment-970665240)
 
 Given that the media is a primary driver of the intensity of social media user response, the following countries are prioritized by widespread media coverage of COVID-19 events, in order, with their reasons;
 
@@ -49,7 +49,9 @@ Given that the media is a primary driver of the intensity of social media user r
 - Australia (specifically Melbourne, Victoria state, was eventually used as a example of authoritarian pandemic response, by critics)
 - The rest of the world.
 
-## by Tweet data size in the [dataset](https://github.com/thepanacealab/covid19_twitter/tree/master/dailies)
+It is possible that although later dates may seem fairly significant, there would be a smaller response to them. This is because some studies have identified that media coverage of the pandemic is decreasing in spite of newer developements and "deepening crisis" - possibly from information fatigue. [1](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(20)30303-X/fulltext), [2](https://www.pewresearch.org/journalism/2020/05/06/fewer-americans-now-say-media-exaggerated-covid-19-risks-but-big-partisan-gaps-persist/#public-overall-says-media-have-done-well-covering-the-crisis-but-differences-by-party-and-ideology-are-pronounced), [3](https://onlinelibrary.wiley.com/doi/10.1002/hbe2.260), [4](https://apps.who.int/iris/bitstream/handle/10665/335820/WHO-EURO-2020-1160-40906-55390-eng.pdf)
+
+## by Tweet Data Size in the [Dataset](https://github.com/thepanacealab/covid19_twitter/tree/master/dailies)
 
 * October 2nd 2020 (30.1 MB) - Donald and Melania Trump contract COVID-19, they were the then President and First Lady of the USA. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=36)
 
