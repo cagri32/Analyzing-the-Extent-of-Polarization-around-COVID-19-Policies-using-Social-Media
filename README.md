@@ -78,3 +78,20 @@ It is possible that although later dates may seem relatively significant, there 
 * January 27th 2021 (15.5 MB) - The US surpasses 1 million deaths from COVID-19. [1](https://www.paho.org/en/news/27-1-2021-americas-surpasses-one-million-deaths-covid-19)
 
 * November 26th 2021 (8.26 MB) - Classification of Omicron (B.1.1.529): SARS-CoV-2 Variant of Concern. [1](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
+
+# The Apparent 12 Persons behind ~65% of Vaccine Hoaxes (on Facebook, Instagram and Twitter)
+
+According to Imran Ahmed, chief executive officer of the Center for Countering Digital Hate, "The 'Disinformation Dozen' produce 65% of the shares of anti-vaccine misinformation on social media platforms [1](https://252f2edd-1c8b-49f5-9bb2-cb57bb47e4ba.filesusr.com/ugd/f4d9b9_b7cedc0553604720b7137f8663366ee5.pdf). They identified the accounts to be (with their Twitter follower counts as of Nov 30th);
+
+* [Robert F. Kennedy Jr.](https://twitter.com/RobertKennedyJr) - 355.5K Followers
+* [Joseph Mercola](https://twitter.com/mercola) - 343K Followers
+* [Christiane Northrup](https://twitter.com/DrChrisNorthrup) - 115.8K Followers
+* [Rashid Buttar](https://twitter.com/DrButtar) - 88.9K Followers
+* [Erin Elizabeth](https://twitter.com/unhealthytruth) - 55.4K Followers
+* [Kelly Brogan](https://twitter.com/kellybroganmd) - 18.6K Followers
+* [Sayer Ji](https://twitter.com/sayerjigmi) - 11.4K Followers
+* Sherri Tenpenny [Suspended]
+* Rizza Islam [Suspended]
+* Ty & Charlene Bollinger [Not Found]
+* Ben Tapper [Not Found]
+* Kevin Jenkins [Not Found]
