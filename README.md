@@ -41,5 +41,33 @@ python ./data_acquisition/get_metadata.py -i ./data/tsv/2021-07-01-dataset.tsv -
 # Important Dates
 refer to [Issue #2](https://github.com/cagri32/Analyzing-the-Extent-of-Polarization-around-COVID-19-Policies-using-Social-Media/issues/2#issuecomment-970665240)
 
-[a covid timeline](https://blog.cheapism.com/how-we-got-coronavirus/#slide=24)
-"Face Mask Wars" July 1 2020 - Texas face mask mandate
+Given that the media is a primary driver of the intensity of social media user response, the following countries are prioritized by widespread media coverage of COVID-19 events, in order, with their reasons;
+
+- USA (Has significant global media and economic influence, strong interest in global media due to the Trump administration)
+- China (Had the first identified cases, has significant economic influence, strong interest from Western media)
+- Italy (Was an epicentre of the pandemic in the early stages)
+- Australia (specifically Melbourne, Victoria state, was eventually used as a example of authoritarian pandemic response, by critics)
+- The rest of the world.
+
+## by Local Maxima
+*
+
+## by Timeline
+
+* January 27th 2021 - The US surpasses 1 million deaths from COVID-19 [1](https://www.paho.org/en/news/27-1-2021-americas-surpasses-one-million-deaths-covid-19)
+
+* October 2nd 2020 - Donald and Melania Trump contract COVID-19, they were the then President and First Lady of the USA. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=36)
+
+* July 1st 2020 - Texas face mask mandate, among other states that results in "gunfights and other violence" [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=24)
+
+* Late June 2020 - Travel quarantines for Americans in interstate travel begins [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=32)
+
+* April 28th 2020 - The US reaches the 1 million total cases of COVID-19 [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29)[2](https://www.npr.org/sections/coronavirus-live-updates/2020/04/28/846741935/u-s-surpasses-1-million-coronavirus-cases)
+
+* April 17th 2020 - President Trump releases guidelines for reopening the USA [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29)
+
+* April 4th 2020 - President Trump endorses the use of the malaria drug hydroxychloroquine [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=28)
+
+* March 26th 2020 - New York City becomes an epicentre of COVID-19 in the world (surpassing Italy and Spain at the time)[1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=27)
+
+* March 19th 2020 - State of California, USA is the first in the country to issue a stay at home order [1](https://www.gov.ca.gov/2020/03/19/governor-gavin-newsom-issues-stay-at-home-order/)
