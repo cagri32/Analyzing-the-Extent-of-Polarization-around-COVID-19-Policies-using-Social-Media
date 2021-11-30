@@ -1,8 +1,10 @@
 # Twitter COVID-19
 In this project, we wish to explore the extent of polarization on Twitter. Our goal is to identify ideological communities corresponding to the pro-vs-anti vaccine movements, the nature of their interactions, to provide us with an approximate score of the extent of polarization, and to determine whether each of these communities share a common set of interests.
 
-# Twitter API Investigation
-## Setup
+# Mention Network
+The ```2021-07-01-hydrated_tweets.mention_network.gpickle``` file is in the google drive [2021-07-01 dataset - get_metadata output](https://drive.google.com/drive/u/0/folders/1xcFGbn6iHpBmGZ6CCSHjKHF_m5iZRgAZ)
+
+# Environment Variables
 The file twitter_api_investigation.py requires a .env file. Create one with the following structure:
 ```
 CONSUMER_KEY=
@@ -13,12 +15,6 @@ OAUTH_TOKEN_SECRET=
 ```
 Refer to [Twitter Developer documentation](https://developer.twitter.com/en/docs/apps/overview) for information about getting a dev account and proper access (e.g., a consumer key)
 
-# Using Jupyter
-``` bash
-cd Analyzing-the-Extent-of-Polarization-around-COVID-19-Policies-using-Social-Media/
- 
-jupyter notebook
-```
 # Running get_metadata.py
 This assumes you have the .env file set up.
 
@@ -35,8 +31,8 @@ python data_acquisition/get_dataset_tsv.py --date 2021-07-01
 python ./data_acquisition/get_metadata.py -i ./data/tsv/2020-04-10-dataset.tsv -o ./data/tweets/2020-04-10/2020-04-10-hydrated_tweets -k api_keys.json
 ```
 ## Sample
+These are the runs I did. Note the directory. Follow this structure, but don't use these dates as I have already hydrated tweets for these days.
 ```
-# These are the runs I did. Note the directory. Follow this structure, but don't use these dates as I have already hydrated tweets for these days.
 python ./data_acquisition/get_metadata.py -i ./data/tsv/2020-04-10-dataset.tsv -o ./data/tweets/2020-04-10/2020-04-10-hydrated_tweets -k api_keys.json
 python ./data_acquisition/get_metadata.py -i ./data/tsv/2020-07-01-dataset.tsv -o ./data/tweets/2020-07-01/2020-07-01-hydrated_tweets -k api_keys.json
 python ./data_acquisition/get_metadata.py -i ./data/tsv/2020-09-09-dataset.tsv -o ./data/tweets/2020-09-09/2020-09-09-hydrated_tweets -k api_keys.json
