@@ -49,27 +49,18 @@ Given that the media is a primary driver of the intensity of social media user r
 - Australia (specifically Melbourne, Victoria state, was eventually used as a example of authoritarian pandemic response, by critics)
 - The rest of the world.
 
-## by Tweet count in the [dataset](https://github.com/thepanacealab/covid19_twitter/tree/master/dailies)
+## by Tweet data size in the [dataset](https://github.com/thepanacealab/covid19_twitter/tree/master/dailies)
 
+* October 2nd 2020 (30.1 MB) - Donald and Melania Trump contract COVID-19, they were the then President and First Lady of the USA. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=36)
 
+* April 28th 2020 (26.2 MB) - The US reaches the 1 million total cases of COVID-19 [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29),[2](https://www.npr.org/sections/coronavirus-live-updates/2020/04/28/846741935/u-s-surpasses-1-million-coronavirus-cases)
 
+* March 26th 2020 (24.6 MB) - New York City becomes an epicentre of COVID-19 in the world (surpassing Italy and Spain at the time)[1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=27)
 
+* April 4th 2020 (23.9 MB) - President Trump endorses the use of the malaria drug hydroxychloroquine [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=28)
 
------------------
-In Progress
+* April 17th 2020 (23.2 MB) - President Trump releases guidelines for reopening the USA [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29)
 
-* January 27th 2021 - The US surpasses 1 million deaths from COVID-19 [1](https://www.paho.org/en/news/27-1-2021-americas-surpasses-one-million-deaths-covid-19)
+* July 1st 2020 (21.9 MB) - Texas face mask mandate, among other states that results in "gunfights and other violence" [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=24)
 
-* October 2nd 2020 - Donald and Melania Trump contract COVID-19, they were the then President and First Lady of the USA. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=36)
-
-* July 1st 2020 - Texas face mask mandate, among other states that results in "gunfights and other violence" [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=24)
-
-* Late June 2020 - Travel quarantines for Americans in interstate travel begins [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=32)
-
-* April 28th 2020 - The US reaches the 1 million total cases of COVID-19 [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29),[2](https://www.npr.org/sections/coronavirus-live-updates/2020/04/28/846741935/u-s-surpasses-1-million-coronavirus-cases)
-
-* April 17th 2020 - President Trump releases guidelines for reopening the USA [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29)
-
-* April 4th 2020 - President Trump endorses the use of the malaria drug hydroxychloroquine [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=28)
-
-* March 26th 2020 - New York City becomes an epicentre of COVID-19 in the world (surpassing Italy and Spain at the time)[1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=27)
+* January 27th 2021 (15.5 MB) - The US surpasses 1 million deaths from COVID-19 [1](https://www.paho.org/en/news/27-1-2021-americas-surpasses-one-million-deaths-covid-19)
