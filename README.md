@@ -57,9 +57,9 @@ It is possible that although later dates may seem relatively significant, there 
 
 * May 21st 2020 (27 MB) - US and UK Form Vaccine Deal with AstraZeneca. [1](https://www.astrazeneca.com/media-centre/press-releases/2020/astrazeneca-advances-response-to-global-covid-19-challenge-as-it-receives-first-commitments-for-oxfords-potential-new-vaccine.html)
 
-* April 28th 2020 (26.2 MB) - The US reaches the 1 million total cases of COVID-19. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29),[2](https://www.npr.org/sections/coronavirus-live-updates/2020/04/28/846741935/u-s-surpasses-1-million-coronavirus-cases)
+* April 28th 2020 (26.2 MB) - The US reaches 1 million total cases of COVID-19. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29),[2](https://www.npr.org/sections/coronavirus-live-updates/2020/04/28/846741935/u-s-surpasses-1-million-coronavirus-cases)
 
-* March 30th 2020 (25.6 MB) - FDA Authorizes Use of Hydroxychloroquine. [1](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-daily-roundup-march-30-2020)
+* March 30th 2020 (25.6 MB) - FDA Authorizes Use of Hydroxychloroquine, a drug which is later clarified as not being a cure, but is advocated for by President Trump and his supporters. [1](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-daily-roundup-march-30-2020)
 
 * July 27th 2020 (25 MB) - Moderna Vaccine Begins Phase 3 Trial, Receives $472M From Trump Administration. [1](https://www.politico.com/news/2020/07/26/trump-invests-moderna-vaccine-candidate-381690)
 
