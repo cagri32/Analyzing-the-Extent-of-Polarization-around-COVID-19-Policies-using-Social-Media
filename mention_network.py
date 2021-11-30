@@ -79,8 +79,7 @@ print(g)
 print('\nexporting graph to gpickle file')
 export_graph_to_pickle(g, '2021-07-01-hydrated_tweets.mention_network.gpickle')
 
-mention_network = read_pickle_file('./2021-07-01-hydrated_tweets.mention_network.gpickle')
-
+mention_network = read_pickle_file('./data/tweets/2021-07-01/2021-07-01-hydrated_tweets.mention_network.gpickle')
 edge_betweenness_mention_network = pd.DataFrame.from_dict(nx.edge_betweenness_centrality(mention_network, k=10), orient='index').sort_values(by=[0], ascending=False)
 top20 = edge_betweenness_mention_network.head(n=20)
 
