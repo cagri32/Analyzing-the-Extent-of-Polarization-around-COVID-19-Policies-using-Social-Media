@@ -20,9 +20,10 @@ auth = tweepy.OAuthHandler(os.getenv('CONSUMER_KEY'), os.getenv('CONSUMER_SECRET
 auth.set_access_token(os.getenv('OAUTH_TOKEN'), os.getenv('OAUTH_TOKEN_SECRET'))
 api = tweepy.API(auth)
 
-path_to_data = '../data/'
+path_to_data = './data/'
 
-file = '/tweets/2021-07-01/2021-07-01-hydrated_tweets.csv'
+# can't find this csv file
+file = 'tweets/2021-07-01/2021-07-01-hydrated_tweets.csv'
 
 def get_users(tweets_final):
     tweets_final["screen_name"] = tweets["user"].apply(lambda x: ast.literal_eval(x)["screen_name"])
@@ -47,6 +48,9 @@ def network_from_source_and_destination_nodes(source_nodes, destination_nodes, n
 def export_graph_to_pickle(graph, filename):
     nx.write_gpickle(graph, filename)
 
+def export_graph_to_gephi_gml(graph, filename):
+    nx.write_gml(graph, filename)
+
 def read_pickle_file(filename):
     return nx.read_gpickle(filename)
 
@@ -66,15 +70,22 @@ tweets = pd.read_csv(f'{path_to_data}{file}')
 preprocessed_tweets = pd.DataFrame(columns = ["created_at", "id", "in_reply_to_screen_name", "in_reply_to_status_id", "in_reply_to_user_id",
                                       "retweeted_id", "retweeted_screen_name", "user_mentions_screen_name", "user_mentions_id", 
                                        "text", "user_id", "screen_name", "followers_count"])
+
 print('get_usermentions')                                    
 tweets_for_graph = get_usermentions(preprocessed_tweets)
+
 print('get_users')                                    
 tweets_for_graph = get_users(preprocessed_tweets)
+
 print('writing to csv')
 tweets_for_graph.to_csv('tweets_for_graph.csv')
+
 print('network_from_source_and_destination_nodes')
 g = network_from_source_and_destination_nodes(tweets_for_graph['user_mentions_id'], tweets_for_graph['user_id'])
 print(g)
+
+print('exporting graph to gephi gml file')
+export_graph_to_gephi_gml(g, '2021-07-01-hydrated_tweets.mention_network.gml')
 
 print('\nexporting graph to gpickle file')
 export_graph_to_pickle(g, '2021-07-01-hydrated_tweets.mention_network.gpickle')
