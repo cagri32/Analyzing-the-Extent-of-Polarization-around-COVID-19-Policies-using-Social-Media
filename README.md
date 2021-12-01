@@ -43,11 +43,11 @@ Refer to [Issue #2](https://github.com/cagri32/Analyzing-the-Extent-of-Polarizat
 
 Given that the media is a primary driver of the intensity of social media user response, the following countries are prioritized by widespread media coverage of COVID-19 events, in order, with their reasons;
 
-- USA (Has significant global media and economic influence, strong interest in global media due to the Trump administration at the time)
-- China (Had the first identified cases, has significant economic influence, strong interest from Western media)
-- Italy (Was an epicentre of the pandemic in the early stages)
-- Australia (specifically Melbourne, Victoria state, was eventually used as a example of authoritarian pandemic response, by critics)
-- The rest of the world.
+* USA - Has significant global media and economic influence, strong interest in global media due to the Trump administration at the time)
+* China - (Had the first identified cases, has significant economic influence, strong interest from Western media)
+* Italy - (Was an epicentre of the pandemic in the early stages)
+* Australia - (specifically Melbourne, Victoria state, was eventually used as a example of authoritarian pandemic response, by critics)
+* The rest of the world.
 
 It is possible that although later dates may seem relatively significant, there could be a weaker response to them. This is because some studies have identified that media coverage of the pandemic is decreasing in spite of a "deepening crisis" - possibly from information fatigue. [1](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(20)30303-X/fulltext), [2](https://www.pewresearch.org/journalism/2020/05/06/fewer-americans-now-say-media-exaggerated-covid-19-risks-but-big-partisan-gaps-persist/#public-overall-says-media-have-done-well-covering-the-crisis-but-differences-by-party-and-ideology-are-pronounced), [3](https://onlinelibrary.wiley.com/doi/10.1002/hbe2.260), [4](https://apps.who.int/iris/bitstream/handle/10665/335820/WHO-EURO-2020-1160-40906-55390-eng.pdf)
 
@@ -95,3 +95,16 @@ According to Imran Ahmed, chief executive officer of the Center for Countering D
 * Ty & Charlene Bollinger [Not Found]
 * Ben Tapper [Not Found]
 * Kevin Jenkins [Not Found]
+
+# Influencial Entities on COVID-19 Policy Approval
+
+* [World Health Organization](https://twitter.com/WHO) - 10.2M Followers
+* [Centers for Disease Control & Prevention](https://twitter.com/CDCgov) - 4.4M Followers
+* [Tedros Adhanom Ghebreyesus](https://twitter.com/DrTedros) - 1.5M Followers
+* [Scott Gottlieb, MD](https://twitter.com/ScottGottliebMD) - 522.5K Followers
+* [Pfizer](https://twitter.com/pfizer) - 469.9K Followers
+* [Ashish K. Jha, MD, MPH](https://twitter.com/ashishkjha) - 295.6K Followers
+* [Dr. Tom Frieden](https://twitter.com/DrTomFrieden) - 245.2K Followers
+* [Florian Krammer](https://twitter.com/florian_krammer) - 242.1K Followers
+* [Isaac Bogoch](https://twitter.com/BogochIsaac) - 149.1K Followers
+* [Moderna](https://twitter.com/moderna_tx) - 137.1K Followers
