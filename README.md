@@ -57,27 +57,29 @@ It is possible that although later dates may seem relatively significant, there 
 
 2. May 21st 2020 (27 MB) - US and UK Form Vaccine Deal with AstraZeneca. [1](https://www.astrazeneca.com/media-centre/press-releases/2020/astrazeneca-advances-response-to-global-covid-19-challenge-as-it-receives-first-commitments-for-oxfords-potential-new-vaccine.html)
 
-3. April 28th 2020 (26.2 MB) - The US reaches 1 million total cases of COVID-19. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29),[2](https://www.npr.org/sections/coronavirus-live-updates/2020/04/28/846741935/u-s-surpasses-1-million-coronavirus-cases)
+3. October 5th 2020 (26.8 MB) - Trump Leaves the Hospital. White House physician Sean Conley, says that the president’s fever is gone and that his oxygen levels are normal. [1](https://www.bbc.com/news/election-us-2020-54427390)
 
-4. March 30th 2020 (25.6 MB) - FDA Authorizes Use of Hydroxychloroquine, a drug which is later clarified as not being a cure, but is advocated for by President Trump and his supporters. [1](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-daily-roundup-march-30-2020)
+4. April 28th 2020 (26.2 MB) - The US reaches 1 million total cases of COVID-19. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29),[2](https://www.npr.org/sections/coronavirus-live-updates/2020/04/28/846741935/u-s-surpasses-1-million-coronavirus-cases)
 
-5. July 27th 2020 (25 MB) - Moderna Vaccine Begins Phase 3 Trial, Receives $472M From Trump Administration. [1](https://www.politico.com/news/2020/07/26/trump-invests-moderna-vaccine-candidate-381690)
+5. March 30th 2020 (25.6 MB) - FDA Authorizes Use of Hydroxychloroquine, a drug which is later clarified as not being a cure, but is advocated for by President Trump and his supporters. [1](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-daily-roundup-march-30-2020)
 
-6. March 26th 2020 (24.6 MB) - New York City becomes an epicentre of COVID-19 in the world (surpassing Italy and Spain at the time). [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=27)
+6. July 27th 2020 (25 MB) - Moderna Vaccine Begins Phase 3 Trial, Receives $472M From Trump Administration. [1](https://www.politico.com/news/2020/07/26/trump-invests-moderna-vaccine-candidate-381690)
 
-7. July 7th 2020 (24.2 MB) - Benedetta Allegranzi, technical leader of the WHO task force on infection control stated that the WHO should be open to evidence that COVID-19 could be airbourne. [1](https://www.nature.com/articles/d41586-020-02058-1)
+7. March 26th 2020 (24.6 MB) - New York City becomes an epicentre of COVID-19 in the world (surpassing Italy and Spain at the time). [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=27)
 
-8. April 4th 2020 (23.9 MB) - President Trump endorses the use of the malaria drug hydroxychloroquine. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=28)
+8. July 7th 2020 (24.2 MB) - Benedetta Allegranzi, technical leader of the WHO task force on infection control stated that the WHO should be open to evidence that COVID-19 could be airbourne. [1](https://www.nature.com/articles/d41586-020-02058-1)
 
-9. June 4th 2020 (23.3 MB) - Hong Kong Tiananmen Square vigil cancelled due to COVID. [1](https://www.theguardian.com/world/2021/jun/03/tiananmen-june-4-events-china-hong-kong-taiwan-macao-crackdown-covid)
+9. April 4th 2020 (23.9 MB) - President Trump endorses the use of the malaria drug hydroxychloroquine. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=28)
 
-10. April 17th 2020 (23.2 MB) - President Trump releases guidelines for reopening the USA. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29)
+10. June 4th 2020 (23.3 MB) - Hong Kong Tiananmen Square vigil cancelled due to COVID. [1](https://www.theguardian.com/world/2021/jun/03/tiananmen-june-4-events-china-hong-kong-taiwan-macao-crackdown-covid)
 
-11. July 1st 2020 (21.9 MB) - Texas face mask mandate, among other states that results in "gunfights and other violence". [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=24)
+11. April 17th 2020 (23.2 MB) - President Trump releases guidelines for reopening the USA. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29)
 
-12. January 27th 2021 (15.5 MB) - The US surpasses 1 million deaths from COVID-19. [1](https://www.paho.org/en/news/27-1-2021-americas-surpasses-one-million-deaths-covid-19)
+12. July 1st 2020 (21.9 MB) - Texas face mask mandate, among other states that results in "gunfights and other violence". [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=24)
 
-13. November 26th 2021 (8.26 MB) - Classification of Omicron (B.1.1.529): SARS-CoV-2 Variant of Concern. [1](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
+13. January 27th 2021 (15.5 MB) - The US surpasses 1 million deaths from COVID-19. [1](https://www.paho.org/en/news/27-1-2021-americas-surpasses-one-million-deaths-covid-19)
+
+14. November 26th 2021 (8.26 MB) - Classification of Omicron (B.1.1.529): SARS-CoV-2 Variant of Concern. [1](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
 
 # The Apparent 12 Persons behind ~65% of Vaccine Hoaxes (on Facebook, Instagram and Twitter)
 
