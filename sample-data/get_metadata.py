@@ -113,11 +113,16 @@ def main():
 
     print('metadata collection complete')
     print('creating master json file between the tweets {} and {}'.format(lowlim,uplim))
+    print(uplim)
+    print(lowlim)
     try:
+        start += lowlim
+        end = start+100
+        forrange = int((uplim - lowlim)/100)
         with open(output_file, 'a') as outfile:
-            for go in range(lowlim,uplim): # I changed this from i to 10 for getting a sample of 1000 tweets
+            for go in range(forrange):
                 print('currently getting {} - {}'.format(start, end))
-                sleep(6)  # needed to prevent hitting API rate limit
+                sleep(1)  # needed to prevent hitting API rate limit
                 id_batch = ids[start:end]
                 start += 100
                 end += 100       
