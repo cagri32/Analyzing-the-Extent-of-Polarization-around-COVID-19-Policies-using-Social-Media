@@ -39,7 +39,6 @@ def main():
 
 
     args = parser.parse_args()
-    print(f'args: {args}')
     if args.inputfile is None or args.outputfile is None:
         parser.error("please add necessary arguments")
         
@@ -51,8 +50,9 @@ def main():
 
     date_string = args.outputfile.split('/')[-2]
     abs_dir = Path(f'{os.getcwd()}/data/tweets/{date_string}')
-    print(f'abs_dir: {abs_dir}')
-    os.mkdir(abs_dir)
+
+    if not abs_dir.exists():
+        os.mkdir(abs_dir)
 
     auth = tweepy.OAuthHandler(keys['consumer_key'], keys['consumer_secret'])
     auth.set_access_token(keys['access_token'], keys['access_token_secret'])
