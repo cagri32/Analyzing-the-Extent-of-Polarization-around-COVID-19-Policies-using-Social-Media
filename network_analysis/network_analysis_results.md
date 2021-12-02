@@ -12,3 +12,10 @@ This document serves as the single source of truth for this project's network an
 
 # Weighted Network
 2021-07-01 mention weighted_network - Graph with 403768 nodes and 507951 edges
+
+# Community Detection
+
+
+
+# Community Bridge Nodes
+
