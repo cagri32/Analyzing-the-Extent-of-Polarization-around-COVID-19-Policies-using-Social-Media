@@ -122,7 +122,7 @@ def main():
         with open(output_file, 'a') as outfile:
             for go in range(forrange):
                 print('currently getting {} - {}'.format(start, end))
-                sleep(1)  # needed to prevent hitting API rate limit
+                # sleep(1)  # needed to prevent hitting API rate limit
                 id_batch = ids[start:end]
                 start += 100
                 end += 100       
