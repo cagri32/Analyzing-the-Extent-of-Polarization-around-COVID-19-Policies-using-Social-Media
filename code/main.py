@@ -3,8 +3,8 @@ from collections import Counter
 import networkx as nx
 import pickle
 
-data_path = './data/'
-out_path = './out/'
+data_path = './' # './data/'
+out_path = './' # './out/'
 
 def main():
   graph = nx.DiGraph()
