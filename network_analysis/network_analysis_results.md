@@ -2,10 +2,13 @@
 This document serves as the single source of truth for this project's network analysis results. All results should be documented here.
 
 # Network
-2021-07-01 mention_network: Graph with 403300 nodes and 507872 edges
+2021-07-01 mention network - Graph with 403768 nodes and 507951 edges
 
 # Giant Connected Component
-2021-07-01 gcc_mention_network: Graph with 340879 nodes and 467893 edges
+2021-07-01 mention gcc_network - Graph with 340997 nodes and 467785 edges
 
 # Core Graph (degree >= 3)
-2021-07-01 core_mention_network: Graph with 46825 nodes and 132399 edges
+2021-07-01 mention core_network - Graph with 46803 nodes and 132176 edges
+
+# Weighted Network
+2021-07-01 mention weighted_network - Graph with 403768 nodes and 507951 edges
