@@ -5,11 +5,12 @@ from networkx.algorithms import community
 from networkx.algorithms.community.label_propagation import label_propagation_communities
 import operator
 
-inputdir = 'D:\\Users\\Cagri\\Desktop\\YORK\\4414\\Project\\Dataset to be used\\2020-10-02\\**\\graph.txt'
+date = "2020-10-02"
+inputdir = 'D:\\..\\Project\\Dataset to be used\\{}\\**\\graph.txt'.format(date)
 # Output graphs
-maingraphdir = 'mainGraphUndirected.txt'
-community1dir = '.\\..\\Dataset to be used\\2020-10-02\\community1graph.txt'
-community2dir = '.\\..\\Dataset to be used\\2020-10-02\\community2graph.txt'
+maingraphdir = '.\\..\\Dataset to be used\\{}\\mainGraphUndirected.txt'.format(date)
+community1dir = '.\\..\\Dataset to be used\\{}\\community1graph.txt'.format(date)
+community2dir = '.\\..\\Dataset to be used\\{}\\community2graph.txt'.format(date)
 
 graphlist = glob.glob(inputdir, recursive=True)
 
