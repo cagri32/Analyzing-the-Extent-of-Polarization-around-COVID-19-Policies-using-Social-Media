@@ -123,3 +123,44 @@ According to Imran Ahmed, chief executive officer of the Center for Countering D
 * [Florian Krammer](https://twitter.com/florian_krammer) - 242.1K Followers
 * [Isaac Bogoch](https://twitter.com/BogochIsaac) - 149.1K Followers
 * [Moderna](https://twitter.com/moderna_tx) - 137.1K Followers
+
+# Network Analysis
+## Networks
+directed graph (mention network and retweet network)
+## Methods
+connected components
+pruning
+closeness centrality 
+community detection
+* louvain modularity optimization
+* label proprogation algo
+* surprise community detection
+* leiden community detection
+* Walktrap Community Detection
+* infomap
+bridge nodes
+
+## Community Detection
+https://towardsdatascience.com/community-detection-algorithms-9bd8951e7dae
+https://www.kernix.com/article/community-detection-in-social-networks/
+https://graphsandnetworks.com/community-detection-using-networkx/
+
+### Existing Solutions
+https://towardsdatascience.com/generating-twitter-ego-networks-detecting-ego-communities-93897883d255
+https://towardsdatascience.com/how-isis-uses-twitter-598c2eb188a2
+
+http://journal.unipdu.ac.id:8080/index.php/register/article/view/1595
+http://journal.unipdu.ac.id:8080/index.php/register/article/download/1595/pdf
+
+[Community detection in node-attributed social networks: A survey](https://pdf.sciencedirectassets.com/276226/1-s2.0-S1574013720X00037/1-s2.0-S1574013720303865/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjECgaCXVzLWVhc3QtMSJGMEQCIG71e2FmklZX9jqKM%2FZ5nedTYkyXEW30w%2B%2BXDN7%2BPX07AiA5NaFHeGVAUZGyX6vcsX9PfkKeLQ8S8J3DH%2BJP8V200SqDBAjx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAQaDDA1OTAwMzU0Njg2NSIMo%2B1mWifF3Xq71JLEKtcDIfLB650QObs9hPQKGSWEL9eg2zFjCnOVj068j5S2VAPidT5h9sunKLFx68gOUSy10e8zwHjIpoGF65FZsx2laBYJn4zbY33u3Kdloxs7TaeZQ56pDrQnZ38k3%2Blgx4Rm%2FgjEOk4CLi6W%2F7rYn76a1LA1c2%2BjIR33rpBICrGsyx9twlmXNIiq2lX9gXhEtHTqPp3OTMMvPqoxUbO2JIBThdcLqXA4blzQ04Oc48vHuBR4WiWLuaChbyb6BfTY9YF3oOXjM4qC702M5UOF4GeUy%2BURCSqf6f3%2BMo1V20FZyNP%2BsmS0sfdK5%2FGXY8JCncAeO95eW1OYbiY1vbLjZZfZcFgC5jL5zKjNPHztu73lHB%2FoYuJINfhvQ5GSOo5juTKewnwyy5ti2ASRRNDd%2Baxh%2FKqf7StuyZuWB4gVLMrF%2B2F3lRJxtKvuiFga8wiOxh4ouzQFEsJLT67yTvgnMS5k4imnN%2FdzILmmOUT8787ym9kTwGUXobzepO6nhbxdme2X3eqDjTO3ZM51BMCXCCzBkXku02EqWsSERr9TKQ8ZtSIj1AjYvzj34oQ11J%2BXa882zAd5jcMBxWd2fpsNid%2FjlSloSO0WDO%2B7QTUz3y5mjvD2Gd3hcZXyMMeUmY0GOqYBomEaJJz8QrjdEHrnFNDC2uiKXYrCqRjWICNsPNnZ144laF75L6G5fAdowXmmFYNtTG3nlS%2FDbIWxG5Fix65V9dEqt%2Fb76ptBuBtAHYGzmolNE5DPhTbOBRX7bcaAT3AS5egxAxTgh0nIa8DqOmHQQpwrlQx%2BxlTiY961iHZ2Ykdls9lx3yxxCg93AJI1pTlemEqQWrZMTQd8ibDhNc4K7jv7X5SHxw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20211130T165642Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYXIBYC7TD%2F20211130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2720fd8a74216c557d2991ecdaeafed5f9e6f7267db92777d8282daa71beea85&hash=9905ae7f822b2dd02f5dfe4e886a70aa4528d15802758d973489153fe2081b8d&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1574013720303865&tid=spdf-a1a55a2c-77eb-4704-a42c-b7a2d781d0bb&sid=ff1d39bb1d0ef54cbe0bab09a7a7ac377c2bgxrqa&type=client)
+
+https://github.com/MieszkoMakuch/twitter-community-detection
+https://github.com/joan1971/twitter-community-detection-1
+
+## Papers
+### community detection for the twittersphere during kavanaugh hearings
+in this paper, mentions and retweets are mainly unidirectional so networks used were undirected
+
+# Tools
+## Gephi
+https://medium.com/@Luca/guide-analyzing-twitter-networks-with-gephi-0-9-1-2e0220d9097d
