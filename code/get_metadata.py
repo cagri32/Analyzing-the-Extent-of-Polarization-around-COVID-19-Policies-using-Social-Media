@@ -94,7 +94,7 @@ def main():
     limit = len(ids)
     i = int(math.ceil(float(limit) / 100))
     lowlim = 0
-    uplim = int(math.ceil(float(limit-start) / 100))
+    uplim = int(math.ceil(float(limit-start)))
     if(args.upperlimit is not None):
       uplim = int(args.upperlimit)
     if(args.lowerlimit is not None):
