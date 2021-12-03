@@ -87,7 +87,9 @@ U.S. President-elect Joseph R. Biden receives the Pfizer-BioNTech coronavirus va
 
 16. January 27th 2021 (15.5 MB) - The US surpasses 1 million deaths from COVID-19. [1](https://www.paho.org/en/news/27-1-2021-americas-surpasses-one-million-deaths-covid-19)
 
-17. November 26th 2021 (8.26 MB) - Classification of Omicron (B.1.1.529): SARS-CoV-2 Variant of Concern. [1](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
+17. April 7th 2021 (14.3 MB) - European Medicines Agency Finds Rare Clotting Links to AZ Vaccine. [1](https://www.ema.europa.eu/en/news/astrazenecas-covid-19-vaccine-ema-finds-possible-link-very-rare-cases-unusual-blood-clots-low-blood)
+
+18. November 26th 2021 (8.26 MB) - Classification of Omicron (B.1.1.529): SARS-CoV-2 Variant of Concern. [1](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
 
 # The Apparent 12 Persons behind ~65% of Vaccine Hoaxes (on Facebook, Instagram and Twitter)
 
@@ -111,6 +113,7 @@ According to Imran Ahmed, chief executive officer of the Center for Countering D
 * [World Health Organization](https://twitter.com/WHO) - 10.2M Followers
 * [Centers for Disease Control & Prevention](https://twitter.com/CDCgov) - 4.4M Followers
 * [Tedros Adhanom Ghebreyesus](https://twitter.com/DrTedros) - 1.5M Followers
+* [Eric Feigl-Ding](https://twitter.com/drericding) - 632.3K Followers
 * [Scott Gottlieb, MD](https://twitter.com/ScottGottliebMD) - 522.5K Followers
 * [Pfizer](https://twitter.com/pfizer) - 469.9K Followers
 * [Ashish K. Jha, MD, MPH](https://twitter.com/ashishkjha) - 295.6K Followers
