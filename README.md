@@ -59,39 +59,23 @@ It is possible that although later dates may seem relatively significant, there 
 
 2. May 21st 2020 (27 MB) - US and UK Form Vaccine Deal with AstraZeneca. [1](https://www.astrazeneca.com/media-centre/press-releases/2020/astrazeneca-advances-response-to-global-covid-19-challenge-as-it-receives-first-commitments-for-oxfords-potential-new-vaccine.html)
 
-3. October 5th 2020 (26.8 MB) - Trump Leaves the Hospital. White House physician Sean Conley, says that the president’s fever is gone and that his oxygen levels are normal. [1](https://www.bbc.com/news/election-us-2020-54427390)
-
-4. April 28th 2020 (26.2 MB) - The US reaches 1 million total cases of COVID-19. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29),[2](https://www.npr.org/sections/coronavirus-live-updates/2020/04/28/846741935/u-s-surpasses-1-million-coronavirus-cases)
-
-5. July 13th 2020 (25.9 MB) - President Donald Trump makes his first public appearance wearing a face-mask.
+3. July 13th 2020 (25.9 MB) - President Donald Trump makes his first public appearance wearing a face-mask.
 WHO reports that the United States and Brazil made up half of the daily increase in coronavirus cases globally. [1](https://www.bbc.com/news/world-us-canada-53378439)
 
-6. March 30th 2020 (25.6 MB) - FDA Authorizes Use of Hydroxychloroquine, a drug which is later clarified as not being a cure, but is advocated for by President Trump and his supporters. [1](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-daily-roundup-march-30-2020)
+4. July 27th 2020 (25 MB) - Moderna Vaccine Begins Phase 3 Trial, Receives $472M From Trump Administration. [1](https://www.politico.com/news/2020/07/26/trump-invests-moderna-vaccine-candidate-381690)
 
-7. July 27th 2020 (25 MB) - Moderna Vaccine Begins Phase 3 Trial, Receives $472M From Trump Administration. [1](https://www.politico.com/news/2020/07/26/trump-invests-moderna-vaccine-candidate-381690)
+5. July 7th 2020 (24.2 MB) - Benedetta Allegranzi, technical leader of the WHO task force on infection control stated that the WHO should be open to evidence that COVID-19 could be airbourne. [1](https://www.nature.com/articles/d41586-020-02058-1)
 
-8. March 26th 2020 (24.6 MB) - New York City becomes an epicentre of COVID-19 in the world (surpassing Italy and Spain at the time). [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=27)
+6. June 4th 2020 (23.3 MB) - Hong Kong Tiananmen Square vigil cancelled due to COVID. [1](https://www.theguardian.com/world/2021/jun/03/tiananmen-june-4-events-china-hong-kong-taiwan-macao-crackdown-covid)
 
-9. July 7th 2020 (24.2 MB) - Benedetta Allegranzi, technical leader of the WHO task force on infection control stated that the WHO should be open to evidence that COVID-19 could be airbourne. [1](https://www.nature.com/articles/d41586-020-02058-1)
+7. September 9th 2020 (22.7 MB) - The United States announces it will stop screening international arrivals for COVID-19. More than 500,000 U.S. children have been diagnosed with COVID-19. [1](https://abcnews.go.com/Politics/us-government-end-covid-19-screenings-international-passengers/story?id=72928883), [2](https://www.cnn.com/2020/09/08/health/half-million-us-children-covid-wellness/index.html)
 
-10. April 4th 2020 (23.9 MB) - President Trump endorses the use of the malaria drug hydroxychloroquine. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=28)
-
-11. June 4th 2020 (23.3 MB) - Hong Kong Tiananmen Square vigil cancelled due to COVID. [1](https://www.theguardian.com/world/2021/jun/03/tiananmen-june-4-events-china-hong-kong-taiwan-macao-crackdown-covid)
-
-12. April 17th 2020 (23.2 MB) - President Trump releases guidelines for reopening the USA. [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=29)
-
-13. September 9th 2020 (22.7 MB) - The United States announces it will stop screening international arrivals for COVID-19. More than 500,000 U.S. children have been diagnosed with COVID-19. [1](https://abcnews.go.com/Politics/us-government-end-covid-19-screenings-international-passengers/story?id=72928883), [2](https://www.cnn.com/2020/09/08/health/half-million-us-children-covid-wellness/index.html)
-
-14. December 21st 2020 (19.7 MB) - The European Union approves the Pfizer-BioNTech vaccine.
+8. December 21st 2020 (19.7 MB) - The European Union approves the Pfizer-BioNTech vaccine.
 U.S. President-elect Joseph R. Biden receives the Pfizer-BioNTech coronavirus vaccine on live television. [1](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-authorization-european-union)
 
-15. July 1st 2020 (21.9 MB) - Texas face mask mandate, among other states that results in "gunfights and other violence". [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=24)
+9. July 1st 2020 (21.9 MB) - Texas face mask mandate, among other states that results in "gunfights and other violence". [1](https://blog.cheapism.com/how-we-got-coronavirus/#slide=24)
 
-16. January 27th 2021 (15.5 MB) - The US surpasses 1 million deaths from COVID-19. [1](https://www.paho.org/en/news/27-1-2021-americas-surpasses-one-million-deaths-covid-19)
-
-17. April 7th 2021 (14.3 MB) - European Medicines Agency Finds Rare Clotting Links to AZ Vaccine. [1](https://www.ema.europa.eu/en/news/astrazenecas-covid-19-vaccine-ema-finds-possible-link-very-rare-cases-unusual-blood-clots-low-blood)
-
-18. November 26th 2021 (8.26 MB) - Classification of Omicron (B.1.1.529): SARS-CoV-2 Variant of Concern. [1](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
+10. January 27th 2021 (15.5 MB) - The US surpasses 1 million deaths from COVID-19. [1](https://www.paho.org/en/news/27-1-2021-americas-surpasses-one-million-deaths-covid-19)
 
 # The Apparent 12 Persons behind ~65% of Vaccine Hoaxes (on Facebook, Instagram and Twitter)
 
