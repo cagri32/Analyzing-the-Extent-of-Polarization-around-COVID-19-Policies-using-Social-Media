@@ -1,0 +1,65 @@
+Combining SubGraphs in the main folder
+Graph with 253422 nodes and 1113962 edges
+
+Main Graph is now a:
+DiGraph with 253422 nodes and 1113962 edges
+Calculate edge betweenness score of Community 1
+20 most important edges based on edge betweenness score of Community 1 
+
+1 ANTI 4 NEUT 6 PRO
+
+'(2768265210, '3145697041')': 2.417144512909343e-06 NEUT
+
+'(507538401, '5402612')': 2.3670367979589306e-06  NEUTRAL              
+Donald Trump and US First Lady test positive for coronavirus      NEWS
+https://twitter.com/Santaah92/status/1311923104847998976
+
+'(1135355780444622848, '16253142')': 2.0507894913960248e-06 PRO
+Trump: “The coronavirus. This is their new hoax.”
+Coronavirus: I took that personally
+https://twitter.com/Nigward24/status/1312059675546996736
+
+'(1281366433843171329, '38612007')': 1.8154864522488488e-06 PRO
+Donald Trump boasts that he aced the coronavirus test
+https://twitter.com/riverdale172/status/1311969511843590145
+
+'(975089282896617472, '3131144855')': 1.7312922056231988e-06 NEUTRAL 
+Boris Johnson: My best wishes to President Trump and the First Lady. Hope they both have a speedy recovery from coronavirus.
+https://twitter.com/HamesTonda/status/1312075098770333696
+
+'('14708814', 2405048384)': 1.6173280253512945e-06 NEUTRAL
+Trump and first lady test positive for COVID-19 as US plunges deeper into uncertainty before election https://bit.ly/34mKrJQ
+https://twitter.com/enchantrasand/status/1311991797174992897  NEWS
+
+'(1039253602080976896, '20640982')': 1.3377769854742766e-06 PRO
+BREAKING : @JoeBiden has received his #coronavirus test, and is waiting on the results to determine whether or not he will still travel to Michigan today as planned
+https://twitter.com/Dfdc123/status/1312065499728027650
+
+'(1136480474522669057, '455684839')': 1.3364423975580045e-06 PRO
+Donald and Melania, Mike Lee, Hope Hicks and Ronna McDaniel all contracted coronavirus at an event celebrating the nomination of a SCOTUS justice who would strike down the only law protecting 20 million Americans’ health coverage during the very pandemic they fell victim to.
+https://twitter.com/Bobalouie5/status/1312177012220420097
+
+'(135288024, '455684839')': 1.2975691790050458e-06 PRO
+https://twitter.com/JohnLWalmsley/status/1311907692932464645
+Here's Trump mocking Biden for wearing a mask at the debate on Tuesday. He traveled to that debate with Hope Hicks, who has tested positive for coronavirus.
+
+'(914741855488696321, '16027904')': 1.2936497663738065e-06 PRO
+https://twitter.com/andrewwbejarano/status/1311954261031354370
+Former reality TV host tests positive for COVID-19
+
+
+'(4053937222, '4696552878')': 1.2907072098056785e-06 ANTI
+President Trump will not receive any medical bills for his COVID-19 treatment. 
+Neither should any of us.
+https://twitter.com/NastyNaslund/status/1312171412346466304
+
+'(1340681972, '722242009')': 1.2164286028620056e-06
+'(33708874, '1700626069')': 1.1661955779403015e-06
+'(788220732, '722242009')': 1.1194631898274616e-06
+'(2821364325, '17695133')': 1.1047848943776368e-06
+'(704066712627445760, '18831926')': 1.0886223236204517e-06
+'(15252509, '18831926')': 1.08707937198637e-06
+'(270588704, '113061485')': 1.0809499549724062e-06
+'(1039253602080976896, '170699708')': 9.988419650757395e-07
+'(849702280978984960, '17643379')': 9.977850007437676e-07
+
