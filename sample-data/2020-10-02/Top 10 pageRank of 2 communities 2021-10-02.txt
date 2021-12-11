@@ -1,0 +1,270 @@
+PageRank of Community 1   - PRO
+
+
+18831926: 0.008515187933594818
+public_metrics": {
+                "followers_count": 634549,
+                "following_count": 9844,
+                "tweet_count": 58197,
+                "listed_count": 7464
+            },
+            "name": "Eric Feigl-Ding",
+            "username": "DrEricDing",
+            "id": "18831926",
+            "description": "Epidemiologist & health economist. Senior Fellow @FAScientists. Former 16 years @Harvard. COVID warnings & updates since Jan '20: https://t.co/LcA5JkAPhO"
+
+
+32871086: 0.00775601200564659
+public_metrics": {
+                "followers_count": 1259955,
+                "following_count": 824,
+                "tweet_count": 78563,
+                "listed_count": 9229
+            },
+            "name": "Kyle Griffin",
+            "username": "kylegriffin1",
+            "id": "32871086",
+            "description": "Senior Producer. MSNBC's @TheLastWord. Opinions mine. Do not congratulate."
+        }
+
+
+49698134: 0.0051890247222194106
+public_metrics": {
+                "followers_count": 2081519,
+                "following_count": 7172,
+                "tweet_count": 189085,
+                "listed_count": 12594
+            },
+            "name": "Joy-Ann (Pro-Democracy) Reid 😷",
+            "username": "JoyAnnReid",
+            "id": "49698134",
+            "description": "\"You must be bold, brave, and courageous and find a way... to get in good trouble.\" -John Lewis #TheReidOut ❤️ #reiders. Likes are sometimes just bookmarks."
+        },
+
+
+471677441: 0.004963738590329209
+
+"public_metrics": {
+                "followers_count": 1829514,
+                "following_count": 1516,
+                "tweet_count": 90275,
+                "listed_count": 8008
+            },
+            "name": "George Conway",
+            "username": "gtconway3d",
+            "id": "471677441",
+            "description": "Lawyer. Contributing columnist, @WashingtonPost. Aspiring to become an all-Corgi feed. https://t.co/5EZ9DxN3K4"
+        },
+
+27493883: 0.004649678078181899
+ {
+            "public_metrics": {
+                "followers_count": 850783,
+                "following_count": 61632,
+                "tweet_count": 302356,
+                "listed_count": 2836
+            },
+            "name": "Jon Cooper 🇺🇸",
+            "username": "joncoopertweets",
+            "id": "27493883",
+            "description": "Formerly National Finance Chair of Draft Biden 2016; Long Island Campaign Chair for @BarackObama; Majority Leader of Suffolk County Legislature, NY. @DukeU alum"
+        },
+
+
+14529929: 0.004479279112164876
+ "public_metrics": {
+                "followers_count": 3343213,
+                "following_count": 10178,
+                "tweet_count": 251677,
+                "listed_count": 25411
+            },
+            "name": "Jake Tapper",
+            "username": "jaketapper",
+            "id": "14529929",
+            "description": "Dad; husband; anchor of @TheLeadCNN and @CNNSOTU; author of @TheOutpostbook, @TheHellfireClub, and The @Devil_May_Dance: https://t.co/Cas7TYMwhs"
+        },
+
+
+2233154425: 0.004440662102913276
+{
+            "public_metrics": {
+                "followers_count": 6557010,
+                "following_count": 136,
+                "tweet_count": 6585,
+                "listed_count": 15249
+            },
+            "name": "Stephen King",
+            "username": "StephenKing",
+            "id": "2233154425",
+            "description": "Author"
+        },
+
+455684839: 0.004197988523032885
+
+{
+            "public_metrics": {
+                "followers_count": 442006,
+                "following_count": 982,
+                "tweet_count": 15269,
+                "listed_count": 1856
+            },
+            "name": "Brian Tyler Cohen",
+            "username": "briantylercohen",
+            "id": "455684839",
+            "description": "Political commentary. Daily videos on YouTube, Facebook & Snapchat. Host of @NoLieWithBTC podcast."
+        },
+
+
+455684839: 0.004197988523032885
+public_metrics": {
+                "followers_count": 708228,
+                "following_count": 1067,
+                "tweet_count": 97476,
+                "listed_count": 6139
+            },
+            "name": "Aaron Rupar",
+            "username": "atrupar",
+            "id": "288277167",
+            "description": "journalist. sign up for my brand new newsletter, Public Notice https://t.co/r0H3CptX78"
+        }
+
+
+180107694: 0.003507631340830167
+{
+            "public_metrics": {
+                "followers_count": 1205056,
+                "following_count": 989,
+                "tweet_count": 18794,
+                "listed_count": 7163
+            },
+            "name": "Kaitlan Collins",
+            "username": "kaitlancollins",
+            "id": "180107694",
+            "description": "CNN's Chief White House Correspondent"
+        }
+
+
+
+
+community 2:
+  "username": "carolecadwalla",
+            "description": "Late adopter. Late giver-upper. Guardian & Observer writer. \n\nCo-founder @allthecitizens, parent of @fboversight & @independentSAGE",
+            "id": "722242009",
+            "name": "Carole Cadwalladr",
+            "public_metrics": {
+                "followers_count": 597553,
+                "following_count": 5143,
+                "tweet_count": 20016,
+                "listed_count": 4247
+            }
+        },
+        {
+            "username": "StefanoChase",
+            "description": "Executive/Political Advisor with no filter. TuckFrump 🆘 #Resister rebuilding #Resistance 🏳️‍🌈 #BLM #Gay #FBRParty #FBR",
+            "id": "1280268460996489216",
+            "name": "Chase Stefano 🆘🏳️‍🌈 #Resistance",
+            "public_metrics": {
+                "followers_count": 8579,
+                "following_count": 7671,
+                "tweet_count": 3519,
+                "listed_count": 18
+            }
+        },
+        {
+            "username": "TheAVClub",
+            "description": "Pop culture obsessives writing for the pop culture obsessed.  @AV_Newswire | @AVCFilm | @AVTVClub | @AVCopyDesk | @TheTakeout | @DialMForMaple",
+            "id": "16027904",
+            "name": "The A.V. Club",
+            "public_metrics": {
+                "followers_count": 452731,
+                "following_count": 1116,
+                "tweet_count": 171269,
+                "listed_count": 7988
+            }
+        },
+        {
+            "username": "Ilhan",
+            "description": "Representing Minnesota's 5th District in the People's House. @USProgressives Whip.",
+            "id": "1082334352711790593",
+            "name": "Rep. Ilhan Omar",
+            "public_metrics": {
+                "followers_count": 1294840,
+                "following_count": 442,
+                "tweet_count": 3729,
+                "listed_count": 3370
+            }
+        },
+        {
+            "username": "MikeDrucker",
+            "description": "writer for television, video games, and comics. stand-up comedian. wrote a whole book about Silent Hill 2. Email: mikedruckerisdead @ gmail dot com",
+            "id": "17158189",
+            "name": "Mike Drucker",
+            "public_metrics": {
+                "followers_count": 212583,
+                "following_count": 4667,
+                "tweet_count": 62075,
+                "listed_count": 2365
+            }
+        },
+        {
+            "username": "spectatorindex",
+            "description": "Focused on finance, business, news, science and sports.",
+            "id": "1626294277",
+            "name": "The Spectator Index",
+            "public_metrics": {
+                "followers_count": 1903958,
+                "following_count": 0,
+                "tweet_count": 8512,
+                "listed_count": 11137
+            }
+        },
+        {
+            "username": "YourAnonCentral",
+            "description": "Exposing Human Rights abuses. Actions Not Nouns. #YACnews\n\nWant to support us?: https://t.co/5b1A8bMrVi\nMerch:  https://t.co/omOmgkGj0z",
+            "id": "373157754",
+            "name": "Anonymous",
+            "public_metrics": {
+                "followers_count": 5648834,
+                "following_count": 666,
+                "tweet_count": 324211,
+                "listed_count": 3645
+            }
+        },
+        {
+            "username": "zackfox",
+            "description": "🌙🦗",
+            "id": "1700626069",
+            "name": "Zack Fox",
+            "public_metrics": {
+                "followers_count": 609217,
+                "following_count": 1100,
+                "tweet_count": 7881,
+                "listed_count": 672
+            }
+        },
+        {
+            "username": "Jonathan_Ufi",
+            "description": "I did not vote for Biden. Socialist, atheist, lawyer, animal lover, sports fan, blogger, and blind person. Working for accessibility and disability equity.",
+            "id": "868207986061197312",
+            "name": "The duopoly must be destroyed.",
+            "public_metrics": {
+                "followers_count": 1255,
+                "following_count": 1268,
+                "tweet_count": 9915,
+                "listed_count": 7
+            }
+        },
+        {
+            "username": "TheOnion",
+            "description": "America's Finest News Source.",
+            "id": "14075928",
+            "name": "The Onion",
+            "public_metrics": {
+                "followers_count": 11702261,
+                "following_count": 8,
+                "tweet_count": 85095,
+                "listed_count": 68392
+            }
+        }
+    ]
+
