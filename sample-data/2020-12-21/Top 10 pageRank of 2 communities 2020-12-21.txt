@@ -1,0 +1,249 @@
+2020-12-21 
+
+Community 1
+
+
+1- username": "AOC",
+            "public_metrics": {
+                "followers_count": 12826529,
+                "following_count": 3532,
+                "tweet_count": 13303,
+                "listed_count": 24750
+            },
+            "id": "138203134",
+            "name": "Alexandria Ocasio-Cortez",
+            "description": "US Representative,NY-14 (BX & Queens). In a modern, moral, & wealthy society, no American should be too poor to live. 💯% People-Funded, no lobbyist💰. She/her."
+        }
+       
+2-            "username": "kylegriffin1",
+            "public_metrics": {
+                "followers_count": 1260388,
+                "following_count": 824,
+                "tweet_count": 78588,
+                "listed_count": 9234
+            },
+            "id": "32871086",
+            "name": "Kyle Griffin",
+            "description": "Senior Producer. MSNBC's @TheLastWord. Opinions mine. Do not congratulate."
+        }
+        
+3-            "username": "DrEricDing",
+            "public_metrics": {
+                "followers_count": 635311,
+                "following_count": 9849,
+                "tweet_count": 58226,
+                "listed_count": 7480
+            },
+            "id": "18831926",
+            "name": "Eric Feigl-Ding",
+            "description": "Epidemiologist & health economist. Senior Fellow @FAScientists. Former 16 years @Harvard. COVID warnings & updates since Jan '20: https://t.co/LcA5JkAPhO"
+        }
+        
+4-            "username": "JoeBiden",
+            "public_metrics": {
+                "followers_count": 31850951,
+                "following_count": 48,
+                "tweet_count": 7795,
+                "listed_count": 37636
+            },
+            "id": "939091",
+            "name": "Joe Biden",
+            "description": "Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS."
+        }
+        
+5-            "username": "DWUhlfelderLaw",
+            "public_metrics": {
+                "followers_count": 201518,
+                "following_count": 7212,
+                "tweet_count": 18333,
+                "listed_count": 656
+            },
+            "id": "1011970623470489601",
+            "name": "Daniel Uhlfelder",
+            "description": "Husband, Dad, lawyer, @Stanford & @UFLaw grad, Florida Grim Reaper, Chairman of @removeron, “a chief tormentor of DeSantis,” & “man who triggers Mike Huckabee”"
+        }
+        
+6-            "username": "wanasattia",
+            "public_metrics": {
+                "followers_count": 6881,
+                "following_count": 1161,
+                "tweet_count": 1406,
+                "listed_count": 42
+            },
+            "id": "4334399601",
+            "name": "Christina Blackcloud",
+            "description": "Community Leader, mother, grandmother, Meskwaki, Democrat, former Iowa House District 72 candidate."
+        }
+       
+7-            "username": "JamaalBowmanNY",
+            "public_metrics": {
+                "followers_count": 359274,
+                "following_count": 2139,
+                "tweet_count": 7742,
+                "listed_count": 1521
+            },
+            "id": "1138076821533155328",
+            "name": "Jamaal Bowman",
+            "description": "Congressman for #NY16. Former middle school principal. Causing problems for the status quo. Fighting for jobs and education, not bombs and incarceration."
+        }
+        
+8-            "username": "iSlimfit",
+            "public_metrics": {
+                "followers_count": 181546,
+                "following_count": 14874,
+                "tweet_count": 126066,
+                "listed_count": 239
+            },
+            "id": "90316203",
+            "name": "Adewale Adetona",
+            "description": "Marketing & Strategic Communications || Brand Management || Convener, @LagosDigtSummit || #DeFi/#Crypto Enthusiast"
+        }
+        
+9-            "username": "Reuters",
+            "public_metrics": {
+                "followers_count": 24060647,
+                "following_count": 1197,
+                "tweet_count": 785942,
+                "listed_count": 129973
+            },
+            "id": "1652541",
+            "name": "Reuters",
+            "description": "Top and breaking news, pictures and videos from Reuters. For more breaking business news, follow @ReutersBiz."
+        }
+        
+10-            "username": "CNN",
+            "public_metrics": {
+                "followers_count": 55537991,
+                "following_count": 1101,
+                "tweet_count": 359365,
+                "listed_count": 150917
+            },
+            "id": "759251",
+            "name": "CNN",
+            "description": "It’s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J"
+        }
+    
+
+
+Community 2
+
+
+1- "name": "Candace Owens",
+            "public_metrics": {
+                "followers_count": 2990843,
+                "following_count": 30,
+                "tweet_count": 6133,
+                "listed_count": 6744
+            },
+            "description": "New York Times best-selling author. Founder of @BLEXIT organization. Black people don’t have to be Democrats— still.",
+            "username": "RealCandaceO",
+            "id": "878247600096509952"
+        
+        
+2-            "name": "Rep. Jim Jordan",
+            "public_metrics": {
+                "followers_count": 2237844,
+                "following_count": 3787,
+                "tweet_count": 6983,
+                "listed_count": 7374
+            },
+            "description": "Proudly serving Ohio's beautiful Fourth District. Ranking Member on @JudiciaryGOP. Fighting to #DoWhatWeSaid",
+            "username": "Jim_Jordan",
+            "id": "18166778"
+        
+      
+3-            "name": "Tom Fitton",
+            "public_metrics": {
+                "followers_count": 1194008,
+                "following_count": 3303,
+                "tweet_count": 48604,
+                "listed_count": 3837
+            },
+            "description": "President, Judicial Watch. (These are my personal views only!) NEW BOOK: A Republic Under Assault: https://t.co/0SmAJ7aAGp\nhttps://t.co/LcuQSXinQg",
+            "username": "TomFitton",
+            "id": "18266688"
+        
+        
+4-            "name": "Paul Gosar",
+            "public_metrics": {
+                "followers_count": 142202,
+                "following_count": 632,
+                "tweet_count": 5271,
+                "listed_count": 867
+            },
+            "description": "Personal twitter. Congressman for AZ’s 4th District. Constitutional Conservative. 🇺🇸 “Based Gosar is my favorite Gosar.” Dr. J.F. Hatfield",
+            "username": "DrPaulGosar",
+            "id": "872148729184362497"
+        
+        
+5-            "name": "Catturd ™",
+            "public_metrics": {
+                "followers_count": 617967,
+                "following_count": 9261,
+                "tweet_count": 69628,
+                "listed_count": 1712
+            },
+            "description": "Join our podcast - Political Cheesecake - every Wed 12-2 pm ET at https://t.co/DQCdZonfSm\n \nMy Sci-Fi novel, Rabbitskin, is available at https://t.co/ED2EDLtpYb",
+            "username": "catturd2",
+            "id": "1043185714437992449"
+        
+        
+6-            "name": "Lee Fang",
+            "public_metrics": {
+                "followers_count": 183726,
+                "following_count": 2462,
+                "tweet_count": 17544,
+                "listed_count": 2585
+            },
+            "description": "Investigative Journalist. @theintercept email lee.fang@theintercept.com Views here are my own. Send tips to me directly by email or Signal at (202) 394-9170",
+            "username": "lhfang",
+            "id": "7900962"
+        
+        
+7-            "name": "Cernovich",
+            "public_metrics": {
+                "followers_count": 802278,
+                "following_count": 3161,
+                "tweet_count": 163095,
+                "listed_count": 5277
+            },
+            "description": "Resist ✊",
+            "username": "Cernovich",
+            "id": "358545917"
+        
+        
+8-            "name": "Ben Shapiro",
+            "public_metrics": {
+                "followers_count": 3703626,
+                "following_count": 311,
+                "tweet_count": 172533,
+                "listed_count": 12391
+            },
+            "description": "Editor Emeritus, https://t.co/UzGgVlT1DG, host of \"The Ben Shapiro Show,” NYT bestsellers \"The Right Side of History\" and \"How To Destroy America In Three Easy Steps\"",
+            "username": "benshapiro",
+            "id": "17995040"
+        
+        
+9-            "name": "Josh Hawley",
+            "public_metrics": {
+                "followers_count": 700754,
+                "following_count": 956,
+                "tweet_count": 5743,
+                "listed_count": 2971
+            },
+            "description": "Constitutional lawyer, husband to Erin, Dad to Elijah, Blaise and Abigail, US Senator from Missouri",
+            "username": "HawleyMO",
+            "id": "2352629311"
+        }
+        
+10-            "name": "Ryan Saavedra",
+            "public_metrics": {
+                "followers_count": 309405,
+                "following_count": 590,
+                "tweet_count": 78626,
+                "listed_count": 1616
+            },
+            "description": "Reporter at @realDailyWire. Retweets ≠ endorsement.",
+            "username": "RealSaavedra",
+            "id": "812135885328236551"
+        
