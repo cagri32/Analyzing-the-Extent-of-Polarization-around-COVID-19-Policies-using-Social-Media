@@ -1,0 +1,252 @@
+2020-09-10
+
+Community 1:
+
+1 - "name": "Stephanie Ruhle",
+            "public_metrics": {
+                "followers_count": 707369,
+                "following_count": 1736,
+                "tweet_count": 41451,
+                "listed_count": 4655
+            },
+            "description": "Mom,NBC News Biz Correspondent,MSNBC Anchor 9AM M-F, #ModernRuhles podcast,Fmr BloombergTV, CSFB/Deutsche Bank credit derivs alum,love odd #s & = playing fields",
+            "id": "382685028",
+            "username": "SRuhle"
+        },
+        
+2-            "name": "The Lincoln Project",
+            "public_metrics": {
+                "followers_count": 2721253,
+                "following_count": 797,
+                "tweet_count": 15710,
+                "listed_count": 8073
+            },
+            "description": "\"You cannot escape the responsibility of tomorrow by evading it today.” – Abraham Lincoln 🏴‍☠️",
+            "id": "1205226529455632385",
+            "username": "ProjectLincoln"
+        },
+       
+
+3-            "name": "Kamala Harris",
+            "public_metrics": {
+                "followers_count": 19059224,
+                "following_count": 732,
+                "tweet_count": 16183,
+                "listed_count": 26412
+            },
+            "description": "Fighting for the people. Wife, Momala, Auntie. She/her. Official account is @VP.",
+            "id": "30354991",
+            "username": "KamalaHarris"
+        },
+        
+
+4-            "name": "Joe Biden",
+            "public_metrics": {
+                "followers_count": 31845274,
+                "following_count": 48,
+                "tweet_count": 7793,
+                "listed_count": 37651
+            },
+            "description": "Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+            "id": "939091",
+            "username": "JoeBiden"
+        },
+        
+
+5-            "name": "Kyle Griffin",
+            "public_metrics": {
+                "followers_count": 1260264,
+                "following_count": 824,
+                "tweet_count": 78571,
+                "listed_count": 9234
+            },
+            "description": "Senior Producer. MSNBC's @TheLastWord. Opinions mine. Do not congratulate.",
+            "id": "32871086",
+            "username": "kylegriffin1"
+        },
+        
+6-            "name": "Kaitlan Collins",
+            "public_metrics": {
+                "followers_count": 1205248,
+                "following_count": 989,
+                "tweet_count": 18799,
+                "listed_count": 7165
+            },
+            "description": "CNN's Chief White House Correspondent",
+            "id": "180107694",
+            "username": "kaitlancollins"
+        },
+    
+7-            "name": "BrooklynDad_Defiant!",
+            "public_metrics": {
+                "followers_count": 918277,
+                "following_count": 45002,
+                "tweet_count": 117529,
+                "listed_count": 2817
+            },
+            "description": "Proud papa. Perpetually pissed.\n#BlueWave2022, #Feminist. \n#TheResistance, #BLM\n\nAuthor of The Liddle'est President.\n👉Sr. Advisor, @ReallyAmerican1👈👀",
+            "id": "1640929196",
+            "username": "mmpadellan"
+        },
+        
+8-            "name": "Brian Klaas",
+            "public_metrics": {
+                "followers_count": 259796,
+                "following_count": 999,
+                "tweet_count": 30606,
+                "listed_count": 2894
+            },
+            "description": "Associate Professor in Global Politics @UCL. Author: CORRUPTIBLE: Who Gets Power & How it Changes Us. Washington Post columnist. Host @PowrCorrupts podcast.",
+            "id": "39279821",
+            "username": "brianklaas"
+        },
+        
+9-            "name": "Andrew C Laufer, Esq",
+            "public_metrics": {
+                "followers_count": 186588,
+                "following_count": 1977,
+                "tweet_count": 337778,
+                "listed_count": 932
+            },
+            "description": "Civil Rights Atty - Justice Is Blind,But I'm Not - Police Brutality, False Arrest, Mal Pros, BOD of NYS Trial Lawyers Assoc.,AAJ, NPAP #BLM #AAPI",
+            "id": "160244947",
+            "username": "lauferlaw"
+        },
+        
+10-            "name": "Andrew Bates",
+            "public_metrics": {
+                "followers_count": 56740,
+                "following_count": 2300,
+                "tweet_count": 19226,
+                "listed_count": 658
+            },
+            "description": "Personal account. Work tweets: @AndrewJBates46. Before: @JoeBiden, @ObamaWhiteHouse, @HillaryClinton, @American_Bridge. NCState alum. @MeganApper’s movie pal.",
+            "id": "734768872625188864",
+            "username": "AndrewBatesNC"
+        }
+    
+
+
+
+Community 2
+
+ 
+1-            "public_metrics": {
+                "followers_count": 2106789,
+                "following_count": 109,
+                "tweet_count": 4767,
+                "listed_count": 8233
+            },
+            "username": "LeaderMcConnell",
+            "description": "U.S. Senate Republican Leader Mitch McConnell\nFollow @McConnellPress & @SRCC",
+            "name": "Leader McConnell",
+            "id": "1249982359"
+        }
+ 
+2-            "public_metrics": {
+                "followers_count": 1552023,
+                "following_count": 945,
+                "tweet_count": 114406,
+                "listed_count": 7002
+            },
+            "username": "JackPosobiec",
+            "description": "Senior Editor of @HumanEvents. Fmr Navy intel officer. China analyst.",
+            "name": "Jack Posobiec 🇺🇸",
+            "id": "592730371"
+        },
+        
+3-            "public_metrics": {
+                "followers_count": 1304734,
+                "following_count": 268,
+                "tweet_count": 27550,
+                "listed_count": 3352
+            },
+            "username": "TrumpWarRoom",
+            "description": "This account punches back 10x harder. Managed by Save America 🇺🇸",
+            "name": "Trump War Room",
+            "id": "1108472017144201216"
+        },
+        
+4-            "public_metrics": {
+                "followers_count": 506877,
+                "following_count": 994,
+                "tweet_count": 5751,
+                "listed_count": 2015
+            },
+            "username": "RepDougCollins",
+            "description": "Husband, Father, Air Force Chaplain, Iraq Veteran, attorney. Fighting for conservative values.\n\nThe Doug Collins Podcast: https://t.co/jK1EXdpmhB",
+            "name": "Doug Collins",
+            "id": "1060487274"
+        },
+        
+5-            "public_metrics": {
+                "followers_count": 1708630,
+                "following_count": 197232,
+                "tweet_count": 50897,
+                "listed_count": 5205
+            },
+            "username": "charliekirk11",
+            "description": "Founder & President: @TPUSA • Host: The Charlie Kirk Show\n\n'THE RITTENHOUSE INTERVIEW' is Out NOW!\n\nClick the link below to subscribe 🇺🇸",
+            "name": "Charlie Kirk",
+            "id": "292929271"
+        },
+        
+6-            "public_metrics": {
+                "followers_count": 667592,
+                "following_count": 1630,
+                "tweet_count": 92846,
+                "listed_count": 5277
+            },
+            "username": "ScottAdamsSays",
+            "description": "See my best selling books here: https://t.co/O7wWvP4v5U\n\nMy special and dangerous content is on Locals: https://t.co/OkSfCM9Kq6",
+            "name": "Scott Adams",
+            "id": "2853461537"
+        },
+        
+7-            "public_metrics": {
+                "followers_count": 435615,
+                "following_count": 1963,
+                "tweet_count": 57506,
+                "listed_count": 2349
+            },
+            "username": "bennyjohnson",
+            "description": "Love my Family, God and Pipe Tobacco; not necessarily in that order. The Benny Show — On Podcasts EVERYWHERE 🇺🇸🔥",
+            "name": "Benny",
+            "id": "15212187"
+        },
+        
+8-            "public_metrics": {
+                "followers_count": 7199352,
+                "following_count": 1565,
+                "tweet_count": 44080,
+                "listed_count": 17090
+            },
+            "username": "DonaldJTrumpJr",
+            "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice, Pronouns: Your Hero",
+            "name": "Donald Trump Jr.",
+            "id": "39344374"
+        },
+        
+9-            "public_metrics": {
+                "followers_count": 26742,
+                "following_count": 41,
+                "tweet_count": 15164,
+                "listed_count": 152
+            },
+            "username": "mentnelson",
+            "description": "Creator living in the rural American south. Identified as gifted in 3rd grade. I’m the guy Kanye kicked out of his 2020 rally https://t.co/anhbZm8WbZ",
+            "name": "ment nelson",
+            "id": "1607408977"
+        },
+        
+10-            "public_metrics": {
+                "followers_count": 250060,
+                "following_count": 564,
+                "tweet_count": 6190,
+                "listed_count": 454
+            },
+            "username": "AndrewPollackFL",
+            "description": "Official Account of Andrew Pollack | Father of Meadow, @PollackHunter and @HuckPollack | Author of \"Why Meadow Died\"",
+            "name": "Andrew Pollack",
+            "id": "983766825610694656"
+        
