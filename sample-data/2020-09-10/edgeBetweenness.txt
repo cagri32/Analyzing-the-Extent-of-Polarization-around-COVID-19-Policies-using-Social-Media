@@ -1,0 +1,62 @@
+Combining SubGraphs in the main folder
+Graph with 170002 nodes and 687267 edges
+
+Main Graph is now a:
+DiGraph with 170002 nodes and 687267 edges
+Calculate edge betweenness score of Community 1
+20 most important edges based on edge betweenness score of Community 1 
+
+4 ANTI 6 PRO
+
+'(3248488585, '2853461537')': 3.3575588303633363e-06 PRO
+Two things Joe Biden knows: 1) Trump should listen to experts, and 2) Trump botched the coronavirus response by doing what experts advised.
+https://twitter.com/JoshuaBRiddle/status/1303915046771322880
+
+'(50339025, '259395895')': 3.037349353745661e-06 PRO
+WH staffers are upset with each other for failing to stop Trump from telling Woodward what he knew when about coronavirus - thus revealing that tens of thousands lives could have been saved by stronger, earlier action
+
+'(1148738277735895040, '1640929196')': 2.514851559203404e-06 PRO
+And SHAME on you, Republicans, for playing partisan politics with people's lives.
+https://twitter.com/PaulaMarie553/status/1304127251416576002
+
+'(1095015399702364161, '1249982359')': 2.258824820987148e-06 ANTI
+Every Senate Democrat just voted against hundreds of billions of dollars of COVID-19 relief. 
+https://twitter.com/Antoine32470724/status/1304252450765967363
+
+'(1945150340, '373522445')': 2.218736356263722e-06 PRO
+This should end tRUMPS'S presidency. If it doesn’t, god help us.
+https://twitter.com/bmmsmum/status/1303951354730131456
+
+'('2853461537', 1238467680773894146)': 2.03450184527947e-06 ANTI
+In case you thought the CNN hosts were good people who sometimes got things wrong, this will set you straight.
+https://twitter.com/CoronaUpdateBot/status/1304030769015185408
+
+'(1945205694, '1148212967332204544')': 1.9558744196047034e-06 PRO
+This is the **exact same day** Trump admitted to downplaying the Coronavirus to Bob Woodward.
+https://twitter.com/catwomyn31/status/1304041267412848640
+
+'(123275114, '2640236203')': 1.6981335513941115e-06 PRO
+
+'(1297689131045265414, '39344374')': 1.6792786128536733e-06 ANTI
+The Democrat-media fake news narrative is falling apart again!!!
+https://twitter.com/Wake13579/status/1304042456950939648
+
+'(1297689131045265414, '7702542')': 1.6124280038605874e-06 ANTI
+On Jan. 31st Trump suspended travel from Wuhan. 
+https://twitter.com/Wake13579/status/1304042769367916544
+
+
+'(142095342, '28112312')': 1.6005452197364837e-06 PRO
+South Carolina sees its first teacher, a 28-year-old who taught 3rd grade, die from COVID-19
+https://twitter.com/loveesouljae/status/1304109514627493888
+
+'('157064188', 1255577288223019008)': 1.5932879386340018e-06
+'(1009138369098665985, '1181176017739812867')': 1.4573961956413971e-06
+'('314536466', 750073625915559936)': 1.3079353962052624e-06
+'(750073625915559936, '48110818')': 1.2351647718982825e-06
+'(253926813, '21908201')': 1.1068677031415758e-06
+'(112469136, '382685028')': 1.0128683358925018e-06
+'(73054744, '382685028')': 1.0124986285622032e-06
+'(794306974376718336, '14499829')': 1.009485332482885e-06
+'(1156533888581283840, '759251')': 9.81129104742755e-07
+
