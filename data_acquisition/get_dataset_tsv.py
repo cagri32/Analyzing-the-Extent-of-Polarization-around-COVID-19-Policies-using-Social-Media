@@ -16,7 +16,9 @@ if args.date is None and args.dataset_url is None:
     parser.error("Please add 'dataset_url' or 'date' argument")
 
 raw_w_retweets = f'https://github.com/thepanacealab/covid19_twitter/blob/master/dailies/{args.date}/{args.date}-dataset.tsv.gz?raw=true'
-link = args.dataset_url if args.dataset_url is not None else raw_w_retweets
+clean_dataset = f'https://github.com/thepanacealab/covid19_twitter/blob/master/dailies/{args.date}/{args.date}_clean-dataset.tsv.gz?raw=true'
+# link = args.dataset_url if args.dataset_url is not None else raw_w_retweets
+link = args.dataset_url if args.dataset_url is not None else clean_dataset
 data_tsv_path = './data/tsv/'
 tarball = wget.download(link, out=data_tsv_path)
 tsv = tarball[:-3]
