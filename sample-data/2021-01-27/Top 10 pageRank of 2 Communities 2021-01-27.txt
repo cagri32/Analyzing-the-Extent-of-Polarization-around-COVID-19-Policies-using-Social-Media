@@ -1,0 +1,273 @@
+Community 1 
+
+
+1-            "public_metrics": {
+                "followers_count": 634554,
+                "following_count": 9844,
+                "tweet_count": 58197,
+                "listed_count": 7464
+            },
+            "name": "Eric Feigl-Ding",
+            "username": "DrEricDing",
+            "description": "Epidemiologist & health economist. Senior Fellow @FAScientists. Former 16 years @Harvard. COVID warnings & updates since Jan '20: https://t.co/LcA5JkAPhO",
+            "id": "18831926"
+        }
+
+
+2-        
+            "public metrics": {
+                "followers_count": 6188677,
+                "following_count": 5,
+                "tweet_count": 2526,
+                "listed_count": 9476
+            }
+            "name": "The White House",
+            "username": "WhiteHouse",
+            "description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+            "id": "1323730225067339784"
+        }
+        
+
+3-            "public_metrics": {
+                "followers_count": 18509071,
+                "following_count": 1716,
+                "tweet_count": 411655,
+                "listed_count": 104099
+            },
+            "name": "The Washington Post",
+            "username": "washingtonpost",
+            "description": "Democracy Dies in Darkness",
+            "id": "2467791"
+        }
+        
+
+4-            "public_metrics": {
+                "followers_count": 229421,
+                "following_count": 731,
+                "tweet_count": 4284,
+                "listed_count": 2634
+            },
+            "name": "Craig Spencer MD MPH",
+            "username": "Craig_A_Spencer",
+            "description": "NYC ER doctor | Ebola Survivor | Director of Global Health in Emergency Medicine @ColumbiaMed | Teach Public Health @ColumbiaMSPH | @MSF_USA Board of Directors",
+            "id": "831279407088148480"
+        }
+
+
+5-        {
+            "public_metrics": {
+                "followers_count": 1259959,
+                "following_count": 824,
+                "tweet_count": 78563,
+                "listed_count": 9229
+            },
+            "name": "Kyle Griffin",
+            "username": "kylegriffin1",
+            "description": "Senior Producer. MSNBC's @TheLastWord. Opinions mine. Do not congratulate.",
+            "id": "32871086"
+        }
+
+6-       
+            "public_metrics": {
+                "followers_count": 58044,
+                "following_count": 9150,
+                "tweet_count": 9614,
+                "listed_count": 505
+            },
+            "name": "Hugo Lowell",
+            "username": "hugolowell",
+            "description": "Congressional reporter @GuardianUS, others. Covering the Jan. 6 select committee investigation. Leaks: hugo.lowell@protonmail.com",
+            "id": "2475407894"
+        }
+
+7-        
+            "public_metrics": {
+                "followers_count": 4433986,
+                "following_count": 782,
+                "tweet_count": 268678,
+                "listed_count": 29384
+            },
+            "name": "MSNBC",
+            "username": "MSNBC",
+            "description": "The place for in-depth analysis, political commentary and diverse perspectives. Home of @MSNBCDaily.",
+            "id": "2836421"
+        }
+
+8-        
+            "public_metrics": {
+                "followers_count": 170285,
+                "following_count": 88415,
+                "tweet_count": 92890,
+                "listed_count": 322
+            },
+            "name": "Andrew Goss 👊USAF👊",
+            "username": "Goss30Goss",
+            "description": "NC born/FL home. OEF USAF Veteran. Troy Univ Alum. 🐕 Dad. Ctr-Left Liberal. Deep State Operative. Views are my own.",
+            "id": "2869858477"
+        }
+        
+9-             "public_metrics": {
+                "followers_count": 985877,
+                "following_count": 848,
+                "tweet_count": 2563,
+                "listed_count": 2500
+            },
+            "name": "Reverend Raphael Warnock",
+            "username": "ReverendWarnock",
+            "description": "Pastor. Advocate. Savannah born & raised. @Morehouse alum. Senator from Georgia.",
+            "id": "1221242033530195970"
+        }
+
+
+10=            "public_metrics": {
+                "followers_count": 7395820,
+                "following_count": 23,
+                "tweet_count": 496954,
+                "listed_count": 28502
+            },
+            "name": "Sky News",
+            "username": "SkyNews",
+            "description": "We take you to the heart of the stories that shape our world. \n\nFor breaking news, follow @SkyNewsBreak",
+            "id": "7587032"
+        }
+
+
+
+
+
+
+Community 2
+
+1-"username": "rudy_betrayed",
+            "public_metrics": {
+                "followers_count": 41943,
+                "following_count": 1050,
+                "tweet_count": 11749,
+                "listed_count": 80
+            },
+            "description": "i am the brain genius. crypto connoisseur",
+            "id": "1265448005102174209",
+            "name": "rudy betrayed"
+        }
+       
+ 
+2-            "username": "VP",
+            "public_metrics": {
+                "followers_count": 11719964,
+                "following_count": 6,
+                "tweet_count": 6905,
+                "listed_count": 15046
+            },
+            "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.",
+            "id": "803694179079458816",
+            "name": "Vice President Kamala Harris"
+        }
+       
+3-     "username": "Reuters",
+            "public_metrics": {
+                "followers_count": 24054932,
+                "following_count": 1197,
+                "tweet_count": 785115,
+                "listed_count": 129948
+            },
+            "description": "Top and breaking news, pictures and videos from Reuters. For more breaking business news, follow @ReutersBiz.",
+            "id": "1652541",
+            "name": "Reuters"
+        }
+
+
+4-        {
+            "username": "NorbertElekes",
+            "public_metrics": {
+                "followers_count": 301721,
+                "following_count": 1329,
+                "tweet_count": 10869,
+                "listed_count": 0
+            },
+            "description": "Data reporter, minimalist, compulsive list maker. World news and the latest updates on coronavirus.",
+            "id": "292558545",
+            "name": "Norbert Elekes"
+        }
+
+
+5-        {
+            "username": "waltermasterson",
+            "public_metrics": {
+                "followers_count": 103001,
+                "following_count": 3398,
+                "tweet_count": 15128,
+                "listed_count": 284
+            },
+            "description": "Comedian.",
+            "id": "21962767",
+            "name": "Walter Masterson"
+        }
+
+
+6-        {
+            "username": "ARPdidTHAT",
+            "public_metrics": {
+                "followers_count": 5481,
+                "following_count": 3626,
+                "tweet_count": 122320,
+                "listed_count": 113
+            },
+            "description": "let’s move to the beat like we know that it’s over ♑️☼ ♌️☽ ♊️↑ he/they",
+            "id": "145518909",
+            "name": "CAFFEINATED FLAMINGO"
+        }
+
+
+7-        {
+            "username": "AFP",
+            "public_metrics": {
+                "followers_count": 2093060,
+                "following_count": 606,
+                "tweet_count": 280895,
+                "listed_count": 24252
+            },
+            "description": "Top news and features from AFP's reporters around the world. Elsewhere on Twitter: https://t.co/ELSlBpAitF",
+            "id": "380648579",
+            "name": "AFP News Agency"
+        }
+
+
+8-        {
+            "username": "DrLiMengYAN1",
+            "public_metrics": {
+                "followers_count": 118690,
+                "following_count": 570,
+                "tweet_count": 4261,
+                "listed_count": 480
+            },
+            "description": "MD. PhD. Independent virologist\nLet everyone know the truth of COVID-19, since 19th Jan, 2020\nBack with the 2nd account\nLinks of Three YAN Reports are pinned",
+            "id": "1313128625680592896",
+            "name": "Dr. Li-Meng YAN"
+        }
+
+9-        {
+            "username": "nypost",
+            "public_metrics": {
+                "followers_count": 2348003,
+                "following_count": 11060,
+                "tweet_count": 436039,
+                "listed_count": 20052
+            },
+            "description": "Breaking news & features from The New York Post. Follow your favorite sections: @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion",
+            "id": "17469289",
+            "name": "New York Post"
+        }
+
+10-        {
+            "username": "BNODesk",
+            "public_metrics": {
+                "followers_count": 270728,
+                "following_count": 6,
+                "tweet_count": 12561,
+                "listed_count": 3731
+            },
+            "description": "Live updates from the team behind BNO News. Currently covering coronavirus. For other news, follow @BNONews",
+            "id": "2985479932",
+            "name": "BNO Newsroom"
+        }
+    
